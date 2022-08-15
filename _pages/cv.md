@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="http://aliceraffaele.github.io/files/RaffaeleAlice_AcademicCV.pdf" width="600" height="700" type='application/pdf'>
+<embed src="/files/RaffaeleAlice_AcademicCV.pdf" width="600" height="700" type='application/pdf'>
+
+You can download a PDF copy of my CV [here](/files/pdf/RaffaeleAlice_AcademicCV.pdf)
