@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ciao! Welcome to my personal website. I am a postdoctoral researcher and a contract professor in Operations Research at the [Department of Computer Science](https://www.di.univr.it/?lang=en) of the [University of Verona](https://www.univr.it/home), Italy. Also, since February 2021, I am also one of the two coordinators of [AIROYoung](https://www.airoyoung.org), the Young Chapter of [AIRO](https://www.airo.org), the Italian Association of Operations Research.
+Ciao! Welcome to my personal website. I am a postdoctoral researcher and a contract professor in Operations Research at the [Department of Computer Science](https://www.di.univr.it/?lang=en) of the [University of Verona](https://www.univr.it/home), Italy. Since February 2021, I am also one of the two coordinators of [AIROYoung](https://www.airoyoung.org), the Young Chapter of [AIRO](https://www.airo.org), the Italian Association of Operations Research.
 
 After a scientific diploma in 2010, I first got a Bachelor's Degree (October 2013) and then a Master's Degree (March 2016) both in Computer Science Engineering at the [University of Brescia](https://www.unibs.it/en), Italy. From May 2016 until October 2017, I worked as an IT manager in an energy-trading company named [Edelweiss Energia S.p.A.](https://edelweiss-energia.it), located in Sarnico, Italy. I came back to academia in November 2017, when I enrolled in the [Ph.D course in Mathematics](https://www.unitn.it/drmath/) jointly organized by the [University of Trento](https://www.unitn.it/en) and the [University of Verona](https://www.univr.it/home), Italy. In March 2022, I successfully defended my Ph.D on enumeration problems and right after I started my current postdoc on temporal networks.
 

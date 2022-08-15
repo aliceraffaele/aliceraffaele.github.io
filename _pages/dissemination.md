@@ -5,13 +5,8 @@ permalink: /dissemination/
 author_profile: true
 ---
 
-- [MaddMaths! (August 2021 -- present)](maddmaths.md)
+On this page, you can find a few projects I've been working on during these last years. They all have the main goal to communicate and divulge operations research, mathematics, and computer science to laypeople, especially pupils. Click on the titles for further details.
 
-
-## Math 4 Kids (December 2018 -- present)
-
-To do
-
-## Kids University (2018 -- 2019)
-
-To do
+- [MaddMaths! (August 2021 -- present)]({{ site.baseurl }}maddmaths))
+- [Math4Kids (December 2018 -- present)]({{ site.baseurl }}math4kids))
+- [KidsUniversity Verona (September 2018 -- September 2019)]({{ site.baseurl }}kidsuniversity))
