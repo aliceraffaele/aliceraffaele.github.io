@@ -15,8 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
-
 &nbsp;
 
 # Submitted:
@@ -24,3 +22,10 @@ author_profile: true
 - Matteo Zavatteri, Alice Raffaele, Dario Ostuni, and Romeo Rizzi. *An Interdisciplinary Experimental Evaluation on the Disjunctive Temporal Problem*. July 2022.
 - Alice Raffaele and Romeo Rizzi. *A new decomposition for the Monotone Boolean Duality problem*. July 2021.
 - Alice Raffaele, Romeo Rizzi, and Takeaki Uno. *Listing the bonds of a graph in Õ(n)-delay*. June 2021.
+
+&nbsp;
+
+# Working papers:
+- Alice Raffaele, Matteo Zavatteri, Fabio Bazzoli, Marco Gussago, and Romeo Rizzi. *The case study of Province of Brescia: analysis, evaluation, and improvement of an interlibrary loan service*.
+- Jean-François Côté, Renata Mansini, and Alice Raffaele. *Multi-Period Time Window Assignment for Attended Home Delivery*.
+- Gabriella Colajanni, Alessandro Gobbi, Marinella Picchi, Alice Raffaele, and Eugenia Taranto. *An Operations Research–Based Teaching Unit for Grade 11: The ROAR Experience, Part II*.
