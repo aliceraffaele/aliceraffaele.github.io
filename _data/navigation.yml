@@ -12,6 +12,9 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Industry"
+    url: /industry/
+
   - title: "Service"
     url: /service/
 
