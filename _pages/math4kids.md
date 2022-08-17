@@ -1,5 +1,5 @@
 ---
-permalink: /dissemination/math4kids/
+permalink: /divulgation/math4kids/
 title: "Math4Kids (December 2018 -- present)"
 excerpt: "Math4Kids"
 author_profile: true
