@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Peer reviewing
-Discrete Mathematics, Operations Research Forum
+Discrete Applied Mathematics, Operations Research Forum
 
 ## Positions of responsibility
 - [AIROYoung](https://www.airoyoung.org):
@@ -18,3 +18,8 @@ Discrete Mathematics, Operations Research Forum
 
 ## Program Committee
 - [International Conference on Optimization and Decision Science (ODS2022)](http://www.airoconference.it/ods2022/index.php) at the University of Florence, Italy, August 30 -- September 02, 2022.
+
+## Session Chair
+- *Best AIROYoung Dissertation 2022*, [International Conference on Optimization and Decision Science (ODS2022)](http://www.airoconference.it/ods2022/index.php) at the University of Florence, Italy, September 02, 2022.
+- *Discrete Optimization III*, [International Conference on Optimization and Decision Science (ODS2022)](http://www.airoconference.it/ods2022/index.php) at the University of Florence, Italy, September 01, 2022.
+- “*OR IN... FIVE MINUTES – A pitch-talk session*” (invited session), [International Conference on Optimization and Decision Science (ODS2021)](http://www.airoconference.it/ods2021/index.php) at La Sapienza University of Rome, Italy, September 15, 2021.
