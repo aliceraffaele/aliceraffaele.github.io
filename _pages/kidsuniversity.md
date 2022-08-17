@@ -8,7 +8,7 @@ redirect_from:
   - "/kidsuniversity.html"
 ---
 
-*[KidsUniversity Verona](http://kidsuniversityverona.it)* is an annual initiative organized by the University of Verona which, by means of lectures, laboratories, workshops, and events, involves children and teachers of primary and secondary schools, as well as families, institutions, and companies. The main objectives are scientific dissemination and public engagement.
+*[KidsUniversity Verona](http://kidsuniversityverona.it)* is an annual initiative organized by University of Verona which, by means of lectures, laboratories, workshops, and events, involves children and teachers of primary and secondary schools, as well as families, institutions, and companies. The main objectives are scientific dissemination and public engagement.
 
 During 2018 and 2019, I had the opportunity to participate as a tutor and/or developer in some workshops addressed to Grades 3-7. Hereafter you can find more details:
 

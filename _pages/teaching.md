@@ -1,0 +1,46 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+## Main teaching and responsibility
+- AY 2022/2023:
+  - *Mathematics for Decisions* [48 hours, English], Master's degree in Mathematics, University of Verona, Italy
+
+## Teaching
+- AY 2021/2022:
+  - *Discrete Optimization and Decision Making* [32 hours, English], Master's degree in Data Science, University of Verona, Italy (main responsible: Dr. Roberto Zanotti)
+  - *Mathematics for Decisions* [8 hours, English], Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+  - *Ricerca operativa* [8 hours, Italian], Bachelor's degree in Applied Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+
+## Teaching assistant
+- AY 2020/2021:
+  - *Mathematics for Decisions* [24 hours, English], Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+- AY 2019/2020:
+  - *Mathematics for Decisions* [24 hours, English], Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+  - *Ricerca operativa* [24 hours, Italian], Bachelor's degree in Applied Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+- AY 2018/2019:
+  - *Ricerca operativa* [24 hours, Italian], Bachelor's degree in Applied Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+- AY 2017/2018:
+  - *Ricerca operativa* [24 hours, Italian], Bachelor's degree in Applied Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+
+## Mini-courses and tutorials
+- AY 2017/2018:
+  - *A hands-on tutorial on LP and ILP modeling* [20 hours, English], mini-course in the Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+- AY 2015/2016:
+  - *Adaptive Large Neighborhood Search (ALNS)* [2 hours, Italian], tutorial in the *Optimization algorithms* course by Prof. Renata Mansini, Master's degree in Computer Science Engineering and Master's degree in Industrial Engineering, University of Brescia, Italy.
+
+## Teaching experimentations in primary and higher secondary schools
+- AY 2021/2022:
+  - *Ricerca Operativa Applicazioni Reali (ROAR) II* [23 hours, Italian], Grade 11, IIS Antonietti, Iseo, Italy
+- AY 2020/2021:
+  - *Ricerca Operativa Applicazioni Reali (ROAR) I* [23 hours, Italian], Grade 10, IIS Antonietti, Iseo, Italy
+
+## Memberships
+- [October 2021 – present] *Mathematics Teaching Committee*, Department of Computer Science, University of Verona, Italy
+
+## Supervising activities
+- Co-advisor:
+  - [July 2019 – March 2020] Enrica Pini, *Traffic networks: minimizing costs in flow reconstruction*, Master's Degree in Mathematics, University of Verona
