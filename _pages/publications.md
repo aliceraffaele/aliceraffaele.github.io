@@ -26,6 +26,6 @@ author_profile: true
 &nbsp;
 
 # Working papers:
-- Alice Raffaele, Matteo Zavatteri, Fabio Bazzoli, Marco Gussago, and Romeo Rizzi. *The case study of Province of Brescia: analysis, evaluation, and improvement of an interlibrary loan service*.
+- Alice Raffaele, Matteo Zavatteri, Fabio Bazzoli, Marco Gussago, and Romeo Rizzi. *A two-phase approach to optimize an interlibrary loan service: the case study of Provincia di Brescia*.
 - Jean-François Côté, Renata Mansini, and Alice Raffaele. *Multi-Period Time Window Assignment for Attended Home Delivery*.
 - Gabriella Colajanni, Alessandro Gobbi, Marinella Picchi, Alice Raffaele, and Eugenia Taranto. *An Operations Research–Based Teaching Unit for Grade 11: The ROAR Experience, Part II*.
