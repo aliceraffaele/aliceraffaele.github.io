@@ -11,16 +11,16 @@ author_profile: true
 
 ## Teaching
 - **AY 2021/2022**:
-  - *Discrete Optimization and Decision Making* [32 hours, English], Master's degree in Data Science, University of Verona, Italy (main responsible: Dr. Roberto Zanotti)
-  - *Mathematics for Decisions* [8 hours, English], Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
-  - *Ricerca operativa* [8 hours, Italian], Bachelor's degree in Applied Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+  - *Discrete Optimization and Decision Making* [32 hours, English, classroom + Zoom], Master's degree in Data Science, University of Verona, Italy (main responsible: Dr. Roberto Zanotti)
+  - *Mathematics for Decisions* [8 hours, English, classroom + Zoom], Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+  - *Ricerca operativa* [8 hours, Italian, classroom + Zoom], Bachelor's degree in Applied Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
 
 ## Teaching assistant
 - **AY 2020/2021**:
-  - *Mathematics for Decisions* [24 hours, English], Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+  - *Mathematics for Decisions* [24 hours, English, Zoom], Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
 - **AY 2019/2020**:
-  - *Mathematics for Decisions* [24 hours, English], Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
-  - *Ricerca operativa* [24 hours, Italian], Bachelor's degree in Applied Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+  - *Mathematics for Decisions* [24 hours, English, Zoom], Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
+  - *Ricerca operativa* [24 hours, Italian, Zoom], Bachelor's degree in Applied Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
 - **AY 2018/2019**:
   - *Ricerca operativa* [24 hours, Italian], Bachelor's degree in Applied Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
 - **AY 2017/2018**:
@@ -34,11 +34,11 @@ author_profile: true
 
 ## Teaching experimentations in primary and higher secondary schools
 - **AY 2021/2022**:
-  - *Ricerca Operativa Applicazioni Reali (ROAR) II* [23 hours, Italian], Grade 11, IIS Antonietti, Iseo, Italy
+  - *Ricerca Operativa Applicazioni Reali (ROAR) II* [23 hours, Italian, classroom + Microsoft Teams], Grade 11, IIS Antonietti, Iseo, Italy
 - **AY 2020/2021**:
-  - *Ricerca Operativa Applicazioni Reali (ROAR) I* [23 hours, Italian], Grade 10, IIS Antonietti, Iseo, Italy
+  - *Ricerca Operativa Applicazioni Reali (ROAR) I* [23 hours, Italian, Microsoft Teams], Grade 10, IIS Antonietti, Iseo, Italy
 - **AY 2018/2019**:
-  - *Problem solving nelle scuole primarie* [26 hours, Italian], Grades 3-5, Istituto Comprensivo “Franco Cappa”, Bovolone, and Istituto Comprensivo “Dossobuono”, Dossobuono, Italy 
+  - *Problem solving nelle scuole primarie* [26 hours, Italian], Grades 3-5, Istituto Comprensivo “Franco Cappa”, Bovolone, and Istituto Comprensivo “Dossobuono”, Dossobuono, Italy
 
 ## Memberships
 - **[October 2021 – present]** *Mathematics Teaching Committee*, Department of Computer Science, University of Verona, Italy
