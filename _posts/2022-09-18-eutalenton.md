@@ -3,7 +3,8 @@ title: 'EU TalentOn'
 date: 2022-09-18
 permalink: /posts/2022/09/eutalenton/
 tags:
-  - website
+  - EU TalentOn
+  - European Commission
 ---
 
 Leiden, a city where it rains periodically all day; where an old large mill stands; where the canals and bridges are wonderful especially at night. A city that gave birth or hosted dozens and dozens of scientists and artists (including Lorentz, Huygens, Einstein, and Rembrandt), and that in the last week has also welcomed a hundred young researchers for [EU TalentOn](https://talenton.eu), as well as teenage students for EUCYS, both organized and funded by European Commission.
