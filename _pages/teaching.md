@@ -30,7 +30,7 @@ author_profile: true
 - **AY 2017/2018**:
   - *A hands-on tutorial on LP and ILP modeling* [20 hours, English], mini-course in the Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
 - **AY 2015/2016**:
-  - *Adaptive Large Neighborhood Search (ALNS)* [2 hours, Italian], tutorial in the *Optimization algorithms* course by Prof. Renata Mansini, Master's degree in Computer Science Engineering and Master's degree in Industrial Engineering, University of Brescia, Italy.
+  - *Adaptive Large Neighborhood Search (ALNS)* [2 hours, Italian], tutorial in the *Optimization algorithms* course by Prof. Renata Mansini, Master's degree in Computer Science and Engineering and Master's degree in Industrial Engineering, University of Brescia, Italy.
 
 ## Teaching experimentations in primary and higher secondary schools
 - **AY 2021/2022**:

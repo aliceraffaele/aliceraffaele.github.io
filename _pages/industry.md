@@ -18,4 +18,4 @@ author_profile: true
 - **[May 2019 – present]** Consultant, *Ufficio Biblioteche*, Provincia di Brescia, Brescia, Italy
 - **[October 2018 – March 2019]** Consultant, Consorzio Agrario del Nordest, Verona, Italy
 - **[October 2017 – May 2020]** Consultant, InfoGestWeb s.r.l., Verona, Italy
-  - *Joint Project 2018*, granted by University of Verona on the project entitles DAVIDE (Development of Algorithms to Verify Infractions of Driving European laws). Principal Investigator: Prof. Romeo Rizzi
+  - *Joint Project 2018*, granted by University of Verona on the project entitled DAVIDE (Development of Algorithms to Verify Infractions of Driving European laws). Principal Investigator: Prof. Romeo Rizzi
