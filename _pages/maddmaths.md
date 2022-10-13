@@ -27,6 +27,7 @@ Hereafter you can find the links to all the articles I've written so far, unfort
 
 
 ## Book reviews
+- *Uno, due, tre, molti*, Michael Brooks ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/uno-due-tre-brooks/))
 - *In viaggio con i numeri*, Silvia Benvenuti ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-in-viaggio-con-i-numeri-silvia-benvenuti/))
 - *Il pensiero computazionale*, Antonio Camerlengo ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-il-pensiero-computazionale-antonio-camerlengo/))
 - *Sono il numero uno*, Anna Cerasoli ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-sono-il-numero-1-anna-cerasoli/))
