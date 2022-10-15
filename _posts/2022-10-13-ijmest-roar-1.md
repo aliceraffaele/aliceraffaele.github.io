@@ -7,7 +7,7 @@ tags:
   - publications
 ---
 
-Finally the paper entitled “[Fostering students' modelling and problem-solving skills through Operations Research, digital technologies and collaborative learning](https://www.tandfonline.com/eprint/VG5NRZHTAPAVRNX2DNUG/full?target=10.1080/0020739X.2022.2115421#metrics-content]” has been published! It is about the first part of ROAR (https://lnkd.in/d66DD3XX & https://lnkd.in/ejxj6ryq) has been published in the *International Journal of Mathematical Education in Science and Technology*! We submitted it in November 2021, and it was accepted at the beginning of August 2022.
+Finally the paper entitled “[Fostering students' modelling and problem-solving skills through Operations Research, digital technologies and collaborative learning](https://www.tandfonline.com/eprint/VG5NRZHTAPAVRNX2DNUG/full?target=10.1080/0020739X.2022.2115421#metrics-content]” has been published!) has been published in the *International Journal of Mathematical Education in Science and Technology*! We submitted it in November 2021, and it was accepted at the beginning of August 2022.
 
 It is about the first part of [ROAR](https://sites.google.com/view/progettoroar/home) from a teaching and educational perspective, focusing on the modeling cycle. Indeed, the first teaching unit, addressed to Grade 10 students, was about mathematical modelling, linear and integer programming.
 
