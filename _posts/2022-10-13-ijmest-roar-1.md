@@ -1,6 +1,6 @@
 ---
 title: 'ROAR I on IJMEST'
-date: 2022-10-05
+date: 2022-10-13
 permalink: /posts/2022/10/ijmest-roar-1/
 tags:
   - ROAR
