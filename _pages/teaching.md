@@ -10,6 +10,9 @@ author_profile: true
   - *Mathematics for Decisions* [48 hours, English], Master's degree in Mathematics, University of Verona, Italy
 
 ## Teaching
+- **AY 2022/2023**:
+  - *Advances in Operations Research: Mathematical Programming* [12 hours, English, Zoom], Doctoral Programme in Mathematics, University of Trento, Italy (main responsible: Prof. Romeo Rizzi)
+
 - **AY 2021/2022**:
   - *Discrete Optimization and Decision Making* [32 hours, English, classroom + Zoom], Master's degree in Data Science, University of Verona, Italy (main responsible: Dr. Roberto Zanotti)
   - *Mathematics for Decisions* [8 hours, English, classroom + Zoom], Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
@@ -26,11 +29,11 @@ author_profile: true
 - **AY 2017/2018**:
   - *Ricerca operativa* [24 hours, Italian], Bachelor's degree in Applied Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
 
-## Mini-courses and tutorials
+## Mini-courses and seminars
 - **AY 2017/2018**:
   - *A hands-on tutorial on LP and ILP modeling* [20 hours, English], mini-course in the Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
 - **AY 2015/2016**:
-  - *Adaptive Large Neighborhood Search (ALNS)* [2 hours, Italian], tutorial in the *Optimization algorithms* course by Prof. Renata Mansini, Master's degree in Computer Science and Engineering and Master's degree in Industrial Engineering, University of Brescia, Italy.
+  - *Adaptive Large Neighborhood Search (ALNS)* [2 hours, Italian], seminar in the *Optimization algorithms* course by Prof. Renata Mansini, Master's degree in Computer Science and Engineering and Master's degree in Industrial Engineering, University of Brescia, Italy.
 
 ## Teaching experimentations in primary and higher secondary schools
 - **AY 2021/2022**:
