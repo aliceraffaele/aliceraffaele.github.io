@@ -36,6 +36,8 @@ author_profile: true
   - *Adaptive Large Neighborhood Search (ALNS)* [2 hours, Italian], seminar in the *Optimization algorithms* course by Prof. Renata Mansini, Master's degree in Computer Science and Engineering and Master's degree in Industrial Engineering, University of Brescia, Italy.
 
 ## Teaching experimentations in primary and higher secondary schools
+- **AY 2022/2023**:
+  - *Ricerca Operativa Applicazioni Reali (ROAR) III* [27 hours, Italian, classroom], Grade 12, IIS Antonietti, Iseo, Italy
 - **AY 2021/2022**:
   - *Ricerca Operativa Applicazioni Reali (ROAR) II* [23 hours, Italian, classroom + Microsoft Teams], Grade 11, IIS Antonietti, Iseo, Italy
 - **AY 2020/2021**:
