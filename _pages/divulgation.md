@@ -11,12 +11,9 @@ Click on the titles below for further details.
 
 - [MaddMaths! (August 2021 -- present)]({{ site.baseurl }}maddmaths)
 - [Math4Kids (December 2018 -- present)]({{ site.baseurl }}math4kids)
+- [Banco di Prova (November 2022 -- January 2023)]({{ site.baseurl }}bancodiprova)
 - [KidsUniversity Verona (September 2018 -- September 2019)]({{ site.baseurl }}kidsuniversity)
 
 Other initiatives:
 - Giorgio Sestili, *I migliori libri di scienza del 2022 scelti dai divulgatori scientifici* (November 2022 -- [link](https://www.giorgiosestili.it/migliori-libri-divulgazione-scienza-2022/))
-- *Banco di prova* (October 2022 -- January 2023): nine meetings, funded by [Comune di Chiari](https://www.comune.chiari.brescia.it) and [Oratorio CG 2000](https://www.cg2000.it), addressed to primary and secondary school students to divulge STEM disciplines, developed in collaboration with Davide Capoferri (Ph.D. in Biotechnology) and Giovanni Macetti (Ph.D. in Chemistry); in particular, I held the following activities:
-  - November 14, 2022: the Caesar Cipher and other secret languages;
-  - December 19, 2022: the Christmas (Knapsack) problem and an innovative bingo;
-  - January 09, 2023: the algorithm behind cooking pasta and sorting games with numbers and heights.
 - *La scienza è per tutti... un sogno. Disegna una scienziata o uno scienziato* (February 2021, February 2022 -- [link](https://opac.provincia.brescia.it/library/chiari/concorso-creativo-la-scienza-e-per-tutti/)): a drawing competition addressed to children of at most 12-year old, to celebrate the International Day of Women and Girls in Science (February 11).
