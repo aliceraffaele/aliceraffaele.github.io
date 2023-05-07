@@ -17,9 +17,8 @@ author_profile: true
 &nbsp;
 
 # Submitted:
-- Gabriella Colajanni, Alessandro Gobbi, Marinella Picchi, Alice Raffaele, and Eugenia Taranto. *An Operations Research–Based Teaching Unit for Grade 11: The ROAR Experience, Part II*. January 2023 (invited revision).
-- Jean-François Côté, Renata Mansini, and Alice Raffaele. *Multi-Period Time Window Assignment for Attended Home Delivery*. January 2023.
-- Alice Raffaele and Matteo Zavatteri. *Reducing the Number of Disjuncts in DTPs*. August 2022.
+- Gabriella Colajanni, Alessandro Gobbi, Marinella Picchi, Alice Raffaele, and Eugenia Taranto. *An Operations Research–Based Teaching Unit for Grade 11: The ROAR Experience, Part II*. January 2023, March 2023 (invited revision).
+- Jean-François Côté, Renata Mansini, and Alice Raffaele. *Multi-Period Time Window Assignment for Attended Home Delivery*. January 2023, April 2023 (invited revision).
 - Alice Raffaele and Romeo Rizzi. *A new decomposition for the Monotone Boolean Duality problem*. July 2021.
 - Alice Raffaele, Romeo Rizzi, and Takeaki Uno. *Listing the bonds of a graph in Õ(n)-delay*. June 2021.
 
