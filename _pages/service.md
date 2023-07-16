@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Peer reviewing
-*Discrete Applied Mathematics*, *Operations Research Forum*
+*Discrete Applied Mathematics*, *Operations Research Forum*, *AIRO Springer Series*
 
 ## Positions of responsibility
 - [AIROYoung](https://www.airoyoung.org):
@@ -17,6 +17,7 @@ author_profile: true
 - [4th AIROYoung Workshop (4AYW)](https://www.unibz.it/en/events/132924-4th-airoyoung-workshop-optimization-at-the-crossroads-of-italy-and-north-europe), Free University of Bozen, Italy, February 5–7, 2020
 
 ## Program Committee
+- [8th AIROYoung Workshop (8AYW)](), TBA, 2024.
 - [7th AIROYoung Workshop (7AYW)](https://univr.zoom.us/j/85801076332), University of Milan, Italy, February 15-17, 2023
 - [International Conference on Optimization and Decision Science (ODS2022)](http://www.airoconference.it/ods2022/index.php), University of Florence, Italy, August 30 -- September 02, 2022
 - [6th AIROYoung Workshop -- Operations Research and Data Science in Public Services (6AYW)](https://ayw2022.uniroma3.it), Roma Tre University, Italy, February 23-25, 2022
