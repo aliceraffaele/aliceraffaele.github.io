@@ -1,6 +1,6 @@
 ---
 permalink: /divulgation/maddmaths/
-title: "Maddmaths! (August 2021 -- present)"
+title: "MaddMaths! (August 2021 -- present)"
 excerpt: "MaddMaths!"
 author_profile: true
 redirect_from:
