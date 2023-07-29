@@ -5,7 +5,7 @@ permalink: /divulgation/
 author_profile: true
 ---
 
-On this page, you can find a few divulgation projects I've been working on during these last few years. They all have the main goal to communicate and divulge operations research, mathematics, and computer science to laypeople, especially pupils, in order to increase their interest and motivation towards these subjects.
+On this page, you can find a few divulgation projects I've been working on during these last few years. They all have the main goal to communicate and divulge operations research, mathematics, and computer science to laypeople, especially pupils, to increase their interest and motivation toward these subjects.
 
 Click on the titles below for further details.
 

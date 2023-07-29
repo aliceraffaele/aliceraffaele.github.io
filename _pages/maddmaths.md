@@ -8,10 +8,10 @@ redirect_from:
   - "/maddmaths.html"
 ---
 
-Since August 2021, I have been collaborating with the [main Italian website](http://maddmaths.simai.eu) for the communication of mathematics.
-I typically write reviews of books about mathematics and computer science, both novels and essays, thus combining my passion for reading with the one for these subjects. Also, I usually present possible applications of operations research by discussing how a problem arising in real life can be first formulated as a mathematical model and then solved by means of mathematical programming and algorithms.
+Since August 2021, I have been collaborating with the [main Italian website](http://maddmaths.simai.eu) for communicating mathematics.
+I typically write reviews of books about mathematics and computer science, both novels and essays, thus combining my passion for reading with the one for these subjects. Sometimes I also present possible applications of operations research. In particular, I discuss how a problem arising in real life can be first formulated as a mathematical model and then solved using mathematical programming and algorithms.
 
-Hereafter you can find the links to all the articles I've written so far, unfortunately available only in Italian. They are classified according to their category, and arranged from the most recent to the oldest ones. In the book reviews, whenever a book contains something related to operations research, I have put the tag “**[OR]**” before the title.
+Hereafter you can find the links to all the articles I've written so far, available only in Italian, unfortunately. They are classified according to their category and arranged from the most recent to the oldest ones. In the book reviews, whenever a book contains something related to operations research, I have put the tag “**[OR]**” before the title.
 
 
 ## On operations research

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 *Banco di prova* is an initiative funded by [Comune di Chiari](https://www.comune.chiari.brescia.it) and [Oratorio CG 2000](https://www.cg2000.it) to divulge STEM disciplines.
-Together with Davide Capoferri (Ph.D. in Biotechnology) and Giovanni Macetti (Ph.D. in Chemistry), we developed a learning path composed of nine meetings addressed to primary and secondary school students. We explored some topics from mathematics, informatics, biology, chemistry, and science in general.
+With Davide Capoferri (Ph.D. in Biotechnology) and Giovanni Macetti (Ph.D. in Chemistry), we developed a learning path composed of nine meetings addressed to primary and secondary school students. We explored several topics of mathematics, informatics, biology, chemistry, and science in general.
 We always tried to adopt a playful approach by applying active learning, games, and collaborative learning.
 
 In particular, I held the following activities:
