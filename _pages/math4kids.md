@@ -16,7 +16,7 @@ Usually, each meeting is dedicated to a particular subject related to mathematic
 Due to my regular work as a Ph.D. student in the past and as a postdoc now, and also because of COVID-19, in the last two years, I could not keep a regular schedule. But these appointments are not over! The enthusiasm shown by the participants has always been overwhelming, encouraging me to design and develop more and more activities.
 
 Hereafter I listed all meetings, together with the topics faced, from the most recent to the oldest one:
-- August 05, 2023 -- TBD
+- August 05, 2023 -- *Operations research*: the Olympiad of Problem-Solving (knapsack, graph coloring, and vertex cover).
 - March 25, 2023 -- *Informatics*: sorting games, Fibonacci and other sequences, and memory with fractal patterns.
 - December 24, 2022 -- *Operations research and arithmetic*: the Christmas (Knapsack) problem and an innovative bingo.
 - January 05, 2022 -- *Arithmetic and logic*: an innovative bingo (where operations or puzzles instead of numbers are extracted) and other Christmas games.
