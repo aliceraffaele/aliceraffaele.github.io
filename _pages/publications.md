@@ -24,6 +24,6 @@ author_profile: true
 &nbsp;
 
 # Working papers:
-- Gabriella Colajanni, Alessandro Gobbi, Marinella Picchi, Alice Raffaele, and Eugenia Taranto. Competitive vs collaborative learning, and how to propose an OR problem as a challenge to Grade 11.
+- Gabriella Colajanni, Alessandro Gobbi, Marinella Picchi, Alice Raffaele, and Eugenia Taranto. *Competitive versus collaborative learning: enhancing problem-solving skills through an optimization problem-based challenge*.
 - Gabriella Colajanni, Alessandro Gobbi, Marinella Picchi, Alice Raffaele, and Eugenia Taranto. *An Operations Research–Based Teaching Unit for Grade 12: The ROAR Experience, Part III*.
 - Alice Raffaele, Romeo Rizzi, and Matteo Zavatteri. On the early schedule in temporal networks.
