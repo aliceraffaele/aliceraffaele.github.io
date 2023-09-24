@@ -18,11 +18,13 @@ author_profile: true
 
 ## Program Committee
 - [8th AIROYoung Workshop (8AYW)](), TBA, 2024.
-- [7th AIROYoung Workshop (7AYW)](https://univr.zoom.us/j/85801076332), University of Milan, Italy, February 15-17, 2023
+- [7th AIROYoung Workshop (7AYW)](https://ayw2023.di.unimi.it), University of Milan, Italy, February 15-17, 2023
 - [International Conference on Optimization and Decision Science (ODS2022)](http://www.airoconference.it/ods2022/index.php), University of Florence, Italy, August 30 -- September 02, 2022
 - [6th AIROYoung Workshop -- Operations Research and Data Science in Public Services (6AYW)](https://ayw2022.uniroma3.it), Roma Tre University, Italy, February 23-25, 2022
 
 ## Session Chair
+- *AIROYoung Dissertation Award 2023*, [International Conference on Optimization and Decision Science (ODS2023)](http://www.airoconference.it/ods2023/index.php), Hotel Continental Terme, Ischia, Italy, September 07, 2023
+- *Teaching and Education*, [International Conference on Optimization and Decision Science (ODS2023)](http://www.airoconference.it/ods2023/index.php), Hotel Continental Terme, Ischia, Italy, September 05, 2023
 - *Best AIROYoung Dissertation 2022*, [International Conference on Optimization and Decision Science (ODS2022)](http://www.airoconference.it/ods2022/index.php), University of Florence, Italy, September 02, 2022
 - *Discrete Optimization III*, [International Conference on Optimization and Decision Science (ODS2022)](http://www.airoconference.it/ods2022/index.php), University of Florence, Italy, September 01, 2022
 - *OR IN... FIVE MINUTES – A pitch-talk session*, [International Conference on Optimization and Decision Science (ODS2021)](http://www.airoconference.it/ods2021/index.php), La Sapienza University of Rome, Italy, September 15, 2021
