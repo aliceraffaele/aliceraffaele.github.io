@@ -23,8 +23,8 @@ author_profile: true
 - [6th AIROYoung Workshop -- Operations Research and Data Science in Public Services (6AYW)](https://ayw2022.uniroma3.it), Roma Tre University, Italy, February 23-25, 2022
 
 ## Session Chair
-- *AIROYoung Dissertation Award 2023*, [International Conference on Optimization and Decision Science (ODS2023)](http://www.airoconference.it/ods2023/index.php), Hotel Continental Terme, Ischia, Italy, September 07, 2023
-- *Teaching and Education*, [International Conference on Optimization and Decision Science (ODS2023)](http://www.airoconference.it/ods2023/index.php), Hotel Continental Terme, Ischia, Italy, September 05, 2023
+- *AIROYoung Dissertation Award 2023* (with the AIRO Young board), [International Conference on Optimization and Decision Science (ODS2023)](http://www.airoconference.it/ods2023/index.php), Hotel Continental Terme, Ischia, Italy, September 07, 2023
+- *Teaching and Education* (with Claudio Sterle), [International Conference on Optimization and Decision Science (ODS2023)](http://www.airoconference.it/ods2023/index.php), Hotel Continental Terme, Ischia, Italy, September 05, 2023
 - *Best AIROYoung Dissertation 2022*, [International Conference on Optimization and Decision Science (ODS2022)](http://www.airoconference.it/ods2022/index.php), University of Florence, Italy, September 02, 2022
 - *Discrete Optimization III*, [International Conference on Optimization and Decision Science (ODS2022)](http://www.airoconference.it/ods2022/index.php), University of Florence, Italy, September 01, 2022
-- *OR IN... FIVE MINUTES – A pitch-talk session*, [International Conference on Optimization and Decision Science (ODS2021)](http://www.airoconference.it/ods2021/index.php), La Sapienza University of Rome, Italy, September 15, 2021
+- *OR IN... FIVE MINUTES – A pitch-talk session* (with Lorenzo Peirano), [International Conference on Optimization and Decision Science (ODS2021)](http://www.airoconference.it/ods2021/index.php), La Sapienza University of Rome, Italy, September 15, 2021
