@@ -10,7 +10,7 @@ redirect_from:
 
 Why don't present mathematics applications to Grades 3--5 pupils using funny problem-solving activities and logical games laboratories? And why don't do this by tutoring in a local community center, such as a public library?
 
-This is how the idea of [*Math 4 Kids*](https://opac.provincia.brescia.it/library/chiari/math-4-kids/) came into my mind, right after the first KidsUniversity experience. Since December 2018, I've organized several meetings in the public library Biblioteca Fausto Sabeo in my origin town, Chiari, Italy.
+This is how the idea of [*Math 4 Kids*](https://opac.provincia.brescia.it/en/library/chiari/math-4-kids) came into my mind, right after the first KidsUniversity experience. Since December 2018, I've organized several meetings in the public library Biblioteca Fausto Sabeo in my origin town, Chiari, Italy.
 Usually, each meeting is dedicated to a particular subject related to mathematics and lasts about two hours on a Saturday morning. Participants are usually pupils attending different primary schools in Chiari or in neighboring towns, so they may not know each other before the meeting. Their number typically ranges from 10 to 20, depending on the fact if I am the only tutor there or if somebody else helps me manage them. As teaching methods, I implement collaborative learning, competitive learning, discovery learning, and of course games and puzzles.
 
 Due to my regular work as a Ph.D. student in the past and as a postdoc now, and also because of COVID-19, in the last two years, I could not keep a regular schedule. But these appointments are not over! The enthusiasm shown by the participants has always been overwhelming, encouraging me to design and develop more and more activities.
