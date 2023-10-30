@@ -48,5 +48,6 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## Others
+- *“Crescere con la scienza”, sperimentando con la lettura* ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/crescere-con-la-scienza-sperimentando-con-la-lettura/))
 - *La comunicazione è una transazione* ([link](https://maddmaths.simai.eu/divulgazione/workshop-comunicazione-della-matematica/))
 - *In viaggio con i numeri* con Silvia Benvenuti al Salone del Libro di Torino ([link](https://maddmaths.simai.eu/divulgazione/numeri-bevenuti-torino/))
