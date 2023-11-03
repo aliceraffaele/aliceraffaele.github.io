@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: right"> “*Who are we, who is each one of us, if not a combinatoria of experiences, information, books we have read, things imagined? Each life is an encyclopedia, a library, an inventory of objects, a series of styles, and everything can be constantly shuffled and reordered in every way conceivable.*”
-Italo Calvino, “*Multiplicity*”, in “*Six memos for the next millennium*”</div>
+<style>body {text-align: right} “*Who are we, who is each one of us, if not a combinatoria of experiences, information, books we have read, things imagined? Each life is an encyclopedia, a library, an inventory of objects, a series of styles, and everything can be constantly shuffled and reordered in every way conceivable.*”
+
+Italo Calvino, “*Multiplicity*”, in “*Six memos for the next millennium*”</style>
 
 
 
