@@ -17,9 +17,9 @@ author_profile: true
 &nbsp;
 
 # Submitted:
+- Jean-François Côté, Renata Mansini, and Alice Raffaele. *Multi-Period Time Window Assignment for Attended Home Delivery*. January 2023, November 2023 (revised).
 - Gabriella Colajanni, Alessandro Gobbi, Marinella Picchi, Alice Raffaele, and Eugenia Taranto. *Competitive versus collaborative learning: enhancing problem-solving skills through an optimization problem-based challenge*. September 2023.
 - Alice Raffaele and Romeo Rizzi. *A new decomposition for the Monotone Boolean Duality problem*. July 2021, August 2023 (revised).
-- Jean-François Côté, Renata Mansini, and Alice Raffaele. *Multi-Period Time Window Assignment for Attended Home Delivery*. January 2023, April 2023 (invited revision).
 - Alice Raffaele, Romeo Rizzi, and Takeaki Uno. *Listing the bonds of a graph in Õ(n)-delay*. June 2021.
 
 &nbsp;

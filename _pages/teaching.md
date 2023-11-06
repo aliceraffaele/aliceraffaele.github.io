@@ -49,5 +49,8 @@ author_profile: true
 - **[October 2021 – present]** *Mathematics Teaching Committee*, Department of Computer Science, University of Verona, Italy
 
 ## Supervising activities
+- **Advisor**:
+  - **[September 2023 – present]** Malina Elena Gradinaru, *TBD*, Master's Degree in Mathematics, University of Verona, Italy
+
 - **Co-advisor**:
   - **[July 2019 – March 2020]** Enrica Pini, *Traffic networks: minimizing costs in flow reconstruction*, Master's Degree in Mathematics, University of Verona, Italy

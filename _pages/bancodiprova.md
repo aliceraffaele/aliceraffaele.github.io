@@ -1,5 +1,5 @@
 ---
-permalink: /divulgation/bancodiprova/
+permalink: /communication/bancodiprova/
 title: "Banco di prova (November 2022 -- January 2023)"
 excerpt: "Banco di prova"
 author_profile: true

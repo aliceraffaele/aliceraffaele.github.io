@@ -1,5 +1,5 @@
 ---
-permalink: /divulgation/maddmaths/
+permalink: /communication/maddmaths/
 title: "MaddMaths! (August 2021 -- present)"
 excerpt: "MaddMaths!"
 author_profile: true

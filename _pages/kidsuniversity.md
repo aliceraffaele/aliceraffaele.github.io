@@ -1,5 +1,5 @@
 ---
-permalink: /divulgation/kidsuniversity/
+permalink: /communication/kidsuniversity/
 title: "KidsUniversity Verona (September 2018 -- September 2019)"
 excerpt: "KidsUniversity"
 author_profile: true

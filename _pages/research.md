@@ -18,6 +18,7 @@ author_profile: true
 
 ## Member of research groups
 - **[April 2023 – present]** Group at the [Department of Mechanical, Energy, and Management Engineering](https://dimeg.unical.it/?lang=en) of the University of Calabria
+- **[April 2023 – present]** *UrobORosDEI* group at the [Department of Information Engineering](https://www.dei.unipd.it/en/home-page) of the University of Padova of the University of Calabria
 - **[November 2017 – March 2023]** *CALIPSO-UniVR* group at the [Department of Computer Science](https://www.di.univr.it/?lang=en), University of Verona, Italy. Director: Prof. Romeo Rizzi
 - **[May 2016 – October 2017]** *[MAO@DII – Models and Algorithms for Optimization](http://or-dii.unibs.it/)* group at the Department of Information Engineering, University of Brescia, Italy. Director: Prof. Renata Mansini
 
