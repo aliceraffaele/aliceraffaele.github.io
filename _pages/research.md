@@ -7,14 +7,14 @@ author_profile: true
 
 ## Main interests
 
+- Operations research
 - Mathematical programming
 - Combinatorial optimization
+- Routing problems under uncertainty
 - Exact algorithms
 - Meta-heuristics
-- Routing problems under uncertainty
-- Scheduling and temporal networks
-- Enumeration problems
 - Operations research in education
+- Enumeration problems
 
 ## Member of research groups
 - **[April 2023 – present]** Group at the [Department of Mechanical, Energy, and Management Engineering](https://dimeg.unical.it/?lang=en) of the University of Calabria
