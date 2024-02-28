@@ -15,7 +15,7 @@ author_profile: true
   - Technical support to other areas of the company
 
 ## Collaborations with companies
-- **[May 2019 – present]** Consultant, *Ufficio Biblioteche*, Provincia di Brescia, Brescia, Italy
+- **[May 2019 – August 2023]** Consultant, *Ufficio Biblioteche*, Provincia di Brescia, Brescia, Italy
 - **[October 2018 – March 2019]** Consultant, Consorzio Agrario del Nordest, Verona, Italy
 - **[October 2017 – May 2020]** Consultant, InfoGestWeb s.r.l., Verona, Italy
   - *Joint Project 2018*, granted by the University of Verona on the project DAVIDE (Development of Algorithms to Verify Infractions of Driving European laws). Principal Investigator: Prof. Romeo Rizzi

@@ -5,12 +5,9 @@ permalink: /service/
 author_profile: true
 ---
 
-## Peer reviewing
-*AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Operations Research Forum*.
-
 ## Positions of responsibility
 - [AIROYoung](https://www.airoyoung.org):
-  - **[February 2021 – present]** Joint coordinator together with Lorenzo Peirano (University of Brescia)
+  - **[February 2021 – February 2024]** Joint coordinator together with Lorenzo Peirano (University of Brescia)
   - **[March 2019 - February 2021]** Social media manager and web curator
 
 ## Organizing Committee
@@ -18,13 +15,16 @@ author_profile: true
 
 ## Program Committee
 - [International Conference on Optimization and Decision Science (ODS2024)](http://www.airoconference.it/ods2024/), Badesi, Sardinia, Italy, September 08-12, 2024
-- [8th AIROYoung Workshop (8AYW)](), University of Calabria, Italy, February 14-16, 2024
+- [8th AIROYoung Workshop (8AYW)](https://www.unical.it/ayw2024/), University of Calabria, Italy, February 14-16, 2024
 - [7th AIROYoung Workshop (7AYW)](https://ayw2023.di.unimi.it), University of Milan, Italy, February 15-17, 2023
 - [International Conference on Optimization and Decision Science (ODS2022)](http://www.airoconference.it/ods2022/index.php), University of Florence, Italy, August 30 -- September 02, 2022
 - [6th AIROYoung Workshop -- Operations Research and Data Science in Public Services (6AYW)](https://ayw2022.uniroma3.it), Roma Tre University, Italy, February 23-25, 2022
 
 ## Editorial activity
 - **[March 2022 – August 2023]** Special Volume editor (with Matteo Cosmi, Lorenzo Peirano, and Marcella Samà) of the book entitled [Operations Research and Data Science in Public Services](https://link.springer.com/book/10.1007/978-3-031-34546-3) in the [AIRO Springer Series](https://www.springer.com/series/15947)
+
+## Peer reviewing
+*AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Operations Research Forum*.
 
 ## Session Chair
 - *AIROYoung Dissertation Award 2023* (with Veronica Dal Sasso, Giusy Macrina, and Lorenzo Peirano), [International Conference on Optimization and Decision Science (ODS2023)](http://www.airoconference.it/ods2023/index.php), Hotel Continental Terme, Ischia, Italy, September 07, 2023
