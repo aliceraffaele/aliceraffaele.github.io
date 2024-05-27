@@ -11,7 +11,7 @@ redirect_from:
 Since August 2021, I have been collaborating with the [main Italian website](http://maddmaths.simai.eu) for communicating mathematics.
 I typically write reviews of books about mathematics and computer science, both novels and essays, thus combining my passion for reading with the one for these subjects. Sometimes I also present possible applications of operations research. In particular, I discuss how a problem arising in real life can be first formulated as a mathematical model and then solved using mathematical programming and algorithms.
 
-Hereafter you can find the links to all the articles I've written so far, available only in Italian, unfortunately. They are classified according to their category and arranged from the most recent to the oldest ones. In the book reviews, whenever a book contains something related to operations research, I have put the tag “**[OR]**” before the title.
+Hereafter you can find the links to all the articles I've written so far, available only in Italian, unfortunately. They are classified according to their category and arranged from the most recent to the oldest ones. In all categories except “On operations research”, whenever an article contains something related to operations research, I have put the tag “**[OR]**” before the title.
 
 
 ## On operations research
@@ -25,6 +25,7 @@ Hereafter you can find the links to all the articles I've written so far, availa
 - *ROAR IN AZIONE! – 1) Il prestito interbibliotecario come problema di routing* ([link](https://maddmaths.simai.eu/divulgazione/roar-in-azione-prestito-interbibliotecario-problema-routing/))
 - *“ROAR IN AZIONE!”, un ciclo di seminari sulle applicazioni della Ricerca Operativa* ([link](https://maddmaths.simai.eu/divulgazione/roar-in-azione-ciclo-seminari-applicazioni-ricerca-operativa/))
 - *Michele Mele, tra ottimizzazione e inclusione* ([link](https://maddmaths.simai.eu/persone/michele_mele/))
+- *Women Just Wanna Have OR* ([link](https://maddmaths.simai.eu/persone/women-just-wanna-have-or/))
 
 
 ## Book reviews
@@ -49,7 +50,7 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## Others
-- *Giornata Internazionale delle Donne nella Matematica 2024 – Tutti gli eventi italiani* ([link](https://maddmaths.simai.eu/divulgazione/eventi/giornata-internazionale-donne-matematica-2024-tutti-gli-eventi/))
+- [**OR**]*Giornata Internazionale delle Donne nella Matematica 2024 – Tutti gli eventi italiani* ([link](https://maddmaths.simai.eu/divulgazione/eventi/giornata-internazionale-donne-matematica-2024-tutti-gli-eventi/))
 - *“Crescere con la scienza”, sperimentando con la lettura* ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/crescere-con-la-scienza-sperimentando-con-la-lettura/))
 - *La comunicazione è una transazione* ([link](https://maddmaths.simai.eu/divulgazione/workshop-comunicazione-della-matematica/))
 - *In viaggio con i numeri* con Silvia Benvenuti al Salone del Libro di Torino ([link](https://maddmaths.simai.eu/divulgazione/numeri-bevenuti-torino/))
