@@ -24,9 +24,11 @@ author_profile: true
 - **[March 2022 – August 2023]** Special Volume editor (with Matteo Cosmi, Lorenzo Peirano, and Marcella Samà) of the book entitled [Operations Research and Data Science in Public Services](https://link.springer.com/book/10.1007/978-3-031-34546-3) in the [AIRO Springer Series](https://www.springer.com/series/15947)
 
 ## Peer reviewing
-*AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Operations Research Forum*.
+*AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Heliyon*, *Operations Research Forum*, *Transportation Science*.
 
 ## Session Chair
+- *Vehicle Routing Under Uncertainty 1* in the “VeRoLog - Vehicle Routing and Logistics” stream, [33rd European Conference on Operational Research (EURO2024)](https://euro2024cph.dk), Technical University of Denmark (DTU), Copenhagen, Denmark, July 1, 2024
+- *Experienced Routes for the Teaching Students' Problem* in the “OR Education” stream, [33rd European Conference on Operational Research (EURO2024)](https://euro2024cph.dk), Technical University of Denmark (DTU), Copenhagen, Denmark, July 1, 2024
 - *AIROYoung Dissertation Award 2023* (with Veronica Dal Sasso, Giusy Macrina, and Lorenzo Peirano), [International Conference on Optimization and Decision Science (ODS2023)](http://www.airoconference.it/ods2023/index.php), Hotel Continental Terme, Ischia, Italy, September 07, 2023
 - *Teaching and Education* (with Claudio Sterle), [International Conference on Optimization and Decision Science (ODS2023)](http://www.airoconference.it/ods2023/index.php), Hotel Continental Terme, Ischia, Italy, September 05, 2023
 - *Best AIROYoung Dissertation 2022*, [International Conference on Optimization and Decision Science (ODS2022)](http://www.airoconference.it/ods2022/index.php), University of Florence, Italy, September 02, 2022

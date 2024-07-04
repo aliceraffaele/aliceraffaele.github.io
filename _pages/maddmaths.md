@@ -29,6 +29,7 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## Book reviews
+- *Matematici segreti*, Kate Kitagawa and Timothy Revell ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-matematici-segreti-kate-kitagawa-timothy-revell/))
 - [**OR**] *Chi dice e chi tace*, Chiara Valerio ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-chi-dice-e-chi-tace-chiara-valerio/))
 - *Numero*, Tobias Dantzig e *Fiori in famiglia. Eva Mameli Calvino si racconta*, Elena Accati, in *Letture estive consigliate dalla redazione di MaddMaths!* ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/letture-estive-2023/))
 - *L'universo letterario del probabile*, Francesca Romana Cappone ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-universo-letterario-probabile-francesca-romana-capone/))
