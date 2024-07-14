@@ -15,7 +15,7 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## On operations research
-- *EURO Gold Medal 2024 a Maria Grazia Speranza – Di cognomi, simboli e mete* ([link](https://maddmaths.simai.eu/comunicare/pari-opportunita/euro-gold-medal-2024-a-maria-grazia-speranza-di-cognomi-simboli-e-mete/)
+- *EURO Gold Medal 2024 a Maria Grazia Speranza – Di cognomi, simboli e mete* ([link](https://maddmaths.simai.eu/comunicare/pari-opportunita/euro-gold-medal-2024-a-maria-grazia-speranza-di-cognomi-simboli-e-mete/))
 - *ROAR IN AZIONE! – 7) Applicazioni multisettoriali della ricerca operativa* ([link](https://maddmaths.simai.eu/divulgazione/roar-in-azione-applicazioni-multisettoriali-ricerca-operativa/))
 - *ODS 2022: una ricerca inclusivamente operativa* ([link](https://maddmaths.simai.eu/divulgazione/ricerca-operativa-ods2022-una-ricerca-inclusivamente-operativa/))
 - *ROAR IN AZIONE! – 6) Combattere la fame nel mondo con l'ottimizzazione* ([link](https://maddmaths.simai.eu/divulgazione/roar-in-azione-combattere-fame-mondo-ottimizzazione/))
@@ -30,7 +30,7 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## Book reviews
-- [**OR**] *Il cognome delle donne*, Maria Grazia Speranza ([link](https://maddmaths.simai.eu/comunicare/pari-opportunita/euro-gold-medal-2024-a-maria-grazia-speranza-di-cognomi-simboli-e-mete/)
+- [**OR**] *Il cognome delle donne*, Maria Grazia Speranza ([link](https://maddmaths.simai.eu/comunicare/pari-opportunita/euro-gold-medal-2024-a-maria-grazia-speranza-di-cognomi-simboli-e-mete/))
 - *Matematici segreti*, Kate Kitagawa and Timothy Revell ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-matematici-segreti-kate-kitagawa-timothy-revell/))
 - [**OR**] *Chi dice e chi tace*, Chiara Valerio ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-chi-dice-e-chi-tace-chiara-valerio/))
 - *Numero*, Tobias Dantzig e *Fiori in famiglia. Eva Mameli Calvino si racconta*, Elena Accati, in *Letture estive consigliate dalla redazione di MaddMaths!* ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/letture-estive-2023/))
