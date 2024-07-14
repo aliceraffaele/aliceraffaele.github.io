@@ -53,7 +53,7 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## Others
-- [**OR**]*Giornata Internazionale delle Donne nella Matematica 2024 – Tutti gli eventi italiani* ([link](https://maddmaths.simai.eu/divulgazione/eventi/giornata-internazionale-donne-matematica-2024-tutti-gli-eventi/))
+- [**OR**] *Giornata Internazionale delle Donne nella Matematica 2024 – Tutti gli eventi italiani* ([link](https://maddmaths.simai.eu/divulgazione/eventi/giornata-internazionale-donne-matematica-2024-tutti-gli-eventi/))
 - *“Crescere con la scienza”, sperimentando con la lettura* ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/crescere-con-la-scienza-sperimentando-con-la-lettura/))
 - *La comunicazione è una transazione* ([link](https://maddmaths.simai.eu/divulgazione/workshop-comunicazione-della-matematica/))
 - *In viaggio con i numeri* con Silvia Benvenuti al Salone del Libro di Torino ([link](https://maddmaths.simai.eu/divulgazione/numeri-bevenuti-torino/))
