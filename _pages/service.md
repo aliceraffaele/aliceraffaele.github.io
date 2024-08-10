@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 ## Positions of responsibility
-- [AIROYoung](https://www.airoyoung.org):
+
+- [MaddMaths! ETS Association](https://maddmaths.simai.eu):
+  - **[May 2024 – present]** Representative of [AIRO](https://airo.org) in the MaddMaths! ETS association's first board
+
+- [AIROYoung](https://airoyoung.airo.org):
   - **[February 2021 – February 2024]** Joint coordinator together with Lorenzo Peirano (University of Brescia)
   - **[March 2019 - February 2021]** Social media manager and web curator
 
@@ -24,7 +28,7 @@ author_profile: true
 - **[March 2022 – August 2023]** Special Volume editor (with Matteo Cosmi, Lorenzo Peirano, and Marcella Samà) of the book entitled [Operations Research and Data Science in Public Services](https://link.springer.com/book/10.1007/978-3-031-34546-3) in the [AIRO Springer Series](https://www.springer.com/series/15947)
 
 ## Peer reviewing
-*AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Heliyon*, *Operations Research Forum*, *Transportation Science*.
+*AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Heliyon*, *International Journal of Mathematical Education in Science and Technology*, *Networks*, *Operations Research Forum*, *Transportation Science*.
 
 ## Session Chair
 - *Vehicle Routing Under Uncertainty 1* in the “VeRoLog - Vehicle Routing and Logistics” stream, [33rd European Conference on Operational Research (EURO2024)](https://euro2024cph.dk), Technical University of Denmark (DTU), Copenhagen, Denmark, July 1, 2024

@@ -30,10 +30,11 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## Book reviews
+- *Cinque lezioni leggere sull’emozione di apprendere*, Daniela Lucangeli e *Grammatica della fantasia*, Gianni Rodari in *Letture estive consigliate dalla redazione di MaddMaths!*, 2024 ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/letture-estive-consigliate-dalla-redazione-di-maddmaths/))
 - [**OR**] *Il cognome delle donne*, Maria Grazia Speranza ([link](https://maddmaths.simai.eu/comunicare/pari-opportunita/euro-gold-medal-2024-a-maria-grazia-speranza-di-cognomi-simboli-e-mete/))
 - *Matematici segreti*, Kate Kitagawa and Timothy Revell ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-matematici-segreti-kate-kitagawa-timothy-revell/))
 - [**OR**] *Chi dice e chi tace*, Chiara Valerio ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-chi-dice-e-chi-tace-chiara-valerio/))
-- *Numero*, Tobias Dantzig e *Fiori in famiglia. Eva Mameli Calvino si racconta*, Elena Accati, in *Letture estive consigliate dalla redazione di MaddMaths!* ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/letture-estive-2023/))
+- *Numero*, Tobias Dantzig e *Fiori in famiglia. Eva Mameli Calvino si racconta*, Elena Accati, in *Letture estive consigliate dalla redazione di MaddMaths!*, 2023 ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/letture-estive-2023/))
 - *L'universo letterario del probabile*, Francesca Romana Cappone ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-universo-letterario-probabile-francesca-romana-capone/))
 - *Com'è bella la matematica. Lettere a una giovane amica*, Ian Stewart ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/come-e-bella-la-matematica-ian-stewart/))
 - *Uno, due, tre, molti*, Michael Brooks ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/uno-due-tre-brooks/))

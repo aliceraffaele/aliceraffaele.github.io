@@ -16,6 +16,8 @@ Usually, each meeting is dedicated to a particular subject related to mathematic
 Due to my regular work as a Ph.D. student in the past and as a postdoc now, and also because of COVID-19, in the recent years, I could not keep a regular schedule. But these appointments are not over! The enthusiasm shown by the participants has always been overwhelming, encouraging me to design and develop more and more activities.
 
 Hereafter I listed all meetings, together with the topics faced, from the most recent to the oldest one:
+- November 09, 2024 -- In collaboration with [Editoriale Scienza](https://www.editorialescienza.it/) for the XXII edition of the [Rassegna della Microeditoria](https://www.microeditoria.it) -- TBD
+- August 24, 2024 -- TBD
 - December 27, 2023 -- *Arithmetic*: an innovative bingo and other Christmas games, riddles, and puzzles.
 - November 04, 2023 -- *Growing with science*, special event based on the books mentioned in the catalog “[Crescere con la scienza](https://www.editorialescienza.it/it/evento/-crescere-con-la-scienza--il-catalogo-ragionato-per-i-30-anni-di-editoriale-scienza.htm)” by [Editoriale Scienza](https://www.editorialescienza.it/), addressed to Grades 1-6 students, at the XXI edition of the [Rassegna della Microeditoria](https://www.microeditoria.it) (counting and the role of zero, a science mime, sorting games, the 15 puzzle, and coding activities).
 - August 05, 2023 -- *Operations research*: the Olympiad of Problem-Solving (knapsack, graph coloring, and vertex cover).

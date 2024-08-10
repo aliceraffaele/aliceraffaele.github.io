@@ -33,7 +33,7 @@ author_profile: true
 - **AY 2017/2018**:
   - *A hands-on tutorial on LP and ILP modeling* [20 hours, English], mini-course in the Master's degree in Mathematics, University of Verona, Italy (main responsible: Prof. Romeo Rizzi)
 - **AY 2015/2016**:
-  - *Adaptive Large Neighborhood Search (ALNS)* [2 hours, Italian], seminar in the *Optimization algorithms* course by Prof. Renata Mansini, Master's degree in Computer Science and Engineering and Master's degree in Industrial Engineering, University of Brescia, Italy.
+  - *Adaptive Large Neighborhood Search (ALNS)* [2 hours, Italian], seminar in the *Optimization algorithms* course by Prof. Renata Mansini, Master's degree in Computer Science and Engineering and Master's degree in Industrial Engineering, University of Brescia, Italy
 
 ## Teaching experimentations in primary and higher secondary schools
 - **AY 2022/2023**:
@@ -46,11 +46,13 @@ author_profile: true
   - *Problem solving nelle scuole primarie* [26 hours, Italian], Grades 3-5, Istituto Comprensivo “Franco Cappa”, Bovolone, and Istituto Comprensivo “Dossobuono”, Dossobuono, Italy
 
 ## Memberships
-- **[October 2021 – present]** *Mathematics Teaching Committee*, Department of Computer Science, University of Verona, Italy
+- **[October 2021 – March 2024]** *Mathematics Teaching Committee*, Department of Computer Science, University of Verona, Italy
 
 ## Supervising activities
 - **Advisor**:
-  - **[September 2023 – present]** Malina Elena Gradinaru, *TBD*, Master's Degree in Mathematics, University of Verona, Italy
+  - **[September 2023 – present]** Malina Elena Gradinaru, *TBD*, Master's Degree in Mathematics, University of Verona, Italy (with Prof. Roberto Roberti)
 
 - **Co-advisor**:
-  - **[July 2019 – March 2020]** Enrica Pini, *Traffic networks: minimizing costs in flow reconstruction*, Master's Degree in Mathematics, University of Verona, Italy
+  - **[July 2024 – present]** Antonino Caré, *TBD*, Master's Degree in Computer Engineering, University of Padova, Italy (with Prof. Roberto Roberti)
+  - **[November 2023 – present]** Bernis Çolakoğlu, *TBD*, Master's Degree in ICT for internet and multimedia, University of Padova, Italy (with Prof. Roberto Roberti)
+  - **[July 2019 – March 2020]** Enrica Pini, *Traffic networks: minimizing costs in flow reconstruction*, Master's Degree in Mathematics, University of Verona, Italy (with Prof. Romeo Rizzi)
