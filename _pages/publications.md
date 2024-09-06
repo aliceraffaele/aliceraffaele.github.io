@@ -19,7 +19,6 @@ author_profile: true
 # Submitted:
 - Alice Raffaele, Demetrio Salvatore Laganà, and Roberto Roberti. *Robust Policies for a Multi-Period Fleet Sizing Problem with Demand Uncertainty*. August 2024 (submitted).
 - Alice Raffaele and Romeo Rizzi. *New theoretical results on the Monotone Boolean Duality and the Monotone Boolean Dualization problems*. July 2021 (submitted), August 2023 (first revision), March 2024 (second revision), July 2024 (third revision).
-- Gabriella Colajanni, Alessandro Gobbi, Marinella Picchi, Alice Raffaele, and Eugenia Taranto. *An Operations Research–Based Teaching Unit for Grade 12: The ROAR Experience, Part III*. December 2023 (submitted), July 2024 (first revision).
 - Gabriella Colajanni, Alessandro Gobbi, Marinella Picchi, Alice Raffaele, and Eugenia Taranto. *Competitive versus collaborative learning: enhancing problem-solving skills through an optimization problem-based challenge*. September 2023 (submitted), February 2024 (first revision).
 
 &nbsp;
