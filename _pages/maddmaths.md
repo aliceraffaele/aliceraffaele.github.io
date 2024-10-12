@@ -30,7 +30,8 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## Book reviews
-- *Cinque lezioni leggere sull’emozione di apprendere*, Daniela Lucangeli e *Grammatica della fantasia*, Gianni Rodari in *Letture estive consigliate dalla redazione di MaddMaths!*, 2024 ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/letture-estive-consigliate-dalla-redazione-di-maddmaths/))
+- *Gioca con i numeri e le forme*, Danielle Mudd and Vanja Krugulj ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-gioca-con-i-numeri-e-le-forme/))
+- *Cinque lezioni leggere sull’emozione di apprendere*, Daniela Lucangeli and *Grammatica della fantasia*, Gianni Rodari in *Letture estive consigliate dalla redazione di MaddMaths!*, 2024 ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/letture-estive-consigliate-dalla-redazione-di-maddmaths/))
 - [**OR**] *Il cognome delle donne*, Maria Grazia Speranza ([link](https://maddmaths.simai.eu/comunicare/pari-opportunita/euro-gold-medal-2024-a-maria-grazia-speranza-di-cognomi-simboli-e-mete/))
 - *Matematici segreti*, Kate Kitagawa and Timothy Revell ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-matematici-segreti-kate-kitagawa-timothy-revell/))
 - [**OR**] *Chi dice e chi tace*, Chiara Valerio ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-chi-dice-e-chi-tace-chiara-valerio/))
