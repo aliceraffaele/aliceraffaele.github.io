@@ -28,7 +28,7 @@ author_profile: true
 - **[March 2022 – August 2023]** Special Volume editor (with Matteo Cosmi, Lorenzo Peirano, and Marcella Samà) of the book entitled [Operations Research and Data Science in Public Services](https://link.springer.com/book/10.1007/978-3-031-34546-3) in the [AIRO Springer Series](https://www.springer.com/series/15947)
 
 ## Peer reviewing
-*AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Heliyon*, *International Journal of Mathematical Education in Science and Technology*, *Networks*, *Operations Research Forum*, *Transportation Science*.
+*AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Heliyon*, *International Journal of Mathematical Education in Science and Technology*, *International Transactions in Operational Research*, *Networks*, *Operations Research Forum*, *Transportation Science*.
 
 ## Session Chair
 - *Vehicle Routing Under Uncertainty 1* in the “VeRoLog - Vehicle Routing and Logistics” stream, [33rd European Conference on Operational Research (EURO2024)](https://euro2024cph.dk), Technical University of Denmark (DTU), Copenhagen, Denmark, July 1, 2024
