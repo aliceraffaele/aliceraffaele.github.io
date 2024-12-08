@@ -1,6 +1,6 @@
 ---
 title: 'On Surnames, Symbols and Goals'
-date: 2024-02-12
+date: 2024-09-11
 permalink: /posts/2024/09/on-surnames/
 tags:
   - OR communication
