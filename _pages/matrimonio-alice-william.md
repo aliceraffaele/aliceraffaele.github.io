@@ -4,9 +4,11 @@ title: "Alice & William"
 excerpt: "Alice & William"
 author_profile: true
 ---
+<p style="text-align:center;">
 
-# Alice & William
+## Quando & Dove
+Venerdì 23 maggio 2025, dalle ore 16:00
 
-## Informazioni 
-- **Quando**: Venerdì 23 maggio 2025, dalle ore 16:00
-- **Dove**: [Al Burnec](https://al-burnec.com), [Via Bornico 32, 25030 Adro (BS)](https://maps.app.goo.gl/VRvmL2ThkSdTZgbv5) 
+[Al Burnec](https://al-burnec.com), [Via Bornico 32, 25030 Adro (BS)](https://maps.app.goo.gl/VRvmL2ThkSdTZgbv5) 
+
+</p>
