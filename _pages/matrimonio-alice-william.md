@@ -7,6 +7,8 @@ head: false
 footer: false
 ---
 
+<div align="center">
+
 ![Alice & William](../images/wa-2.jpg "Lago di Revine - Agosto 2024")
 ### Venerdì 23 maggio 2025, dalle ore 16:00, <br>presso [Al Burnec](https://al-burnec.com), [Via Bornico 32, 25030 Adro (BS)](https://maps.app.goo.gl/VRvmL2ThkSdTZgbv5)
 
