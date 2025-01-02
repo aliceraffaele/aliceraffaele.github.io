@@ -4,6 +4,7 @@ permalink: /matrimonio-alice-william/
 excerpt: "Alice & William – 23/05/2025"
 author_profile: false
 head: false
+footer: false
 ---
 
 ![Alice & William](../images/wa-2.jpg "Lago di Revine - Agosto 2024")
