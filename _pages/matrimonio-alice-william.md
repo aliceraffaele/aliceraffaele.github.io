@@ -3,8 +3,7 @@ permalink: /matrimonio-alice-william/
 # title: "Alice & William"
 excerpt: "Alice & William – 23/05/2025"
 author_profile: false
-nav_list: false
-toc: false
+masthead: false
 ---
 
 ![Alice & William](../images/wa-2.jpg "Lago di Revine - Agosto 2024")
@@ -35,4 +34,3 @@ Per favore, fateci sapere entro il 30 aprile se riuscirete a partecipare compila
 
 
 ![Alice & William](../images/wa-1.jpg "Lago di Ledro - Gennaio 2025")
-
