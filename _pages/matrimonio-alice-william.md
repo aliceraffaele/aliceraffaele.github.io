@@ -1,10 +1,9 @@
 ---
 permalink: /matrimonio-alice-william/
 # title: "Alice & William"
-excerpt: "Alice & William"
-author_profile: true
+excerpt: "Alice & William – 23/05/2025"
+author_profile: false
 ---
-<center>
 
 ![Alice & William](../images/wa-2.jpg)
 ### Venerdì 23 maggio 2025, dalle ore 16:00, <br>presso [Al Burnec](https://al-burnec.com), [Via Bornico 32, 25030 Adro (BS)](https://maps.app.goo.gl/VRvmL2ThkSdTZgbv5)
@@ -31,5 +30,3 @@ Sia la cerimonia sia il ricevimento si svolgeranno Al Burnec ad Adro (BS), in Fr
 ## RSVP
 
 Per favore, fateci sapere entro il 30 aprile se riuscirete a partecipare compilando questo [modulo]().
-
-</center>
