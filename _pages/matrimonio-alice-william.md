@@ -31,3 +31,5 @@ Sia la cerimonia sia il ricevimento si svolgeranno Al Burnec ad Adro (BS), in Fr
 ## RSVP
 
 Per favore, fateci sapere entro il 30 aprile se riuscirete a partecipare compilando questo [modulo]().
+
+</center>
