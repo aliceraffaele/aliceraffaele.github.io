@@ -1,10 +1,13 @@
 ---
 permalink: /matrimonio-alice-william/
-# title: "Alice & William"
+#title: "Alice & William"
 excerpt: "Alice & William – 23/05/2025"
 author_profile: false
 masthead: false
 ---
+
+<h2 style="text-align: center;">Alice & William</h2>
+
 
 ![Alice & William](../images/wa-2.jpg "Lago di Revine - Agosto 2024")
 ### _Venerdì 23 maggio 2025 dalle ore 16:00, [Al Burnec](https://al-burnec.com), [Via Bornico 32, 25030 Adro (BS)](https://maps.app.goo.gl/VRvmL2ThkSdTZgbv5)_
