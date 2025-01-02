@@ -6,7 +6,7 @@ author_profile: false
 masthead: false
 ---
 
-<h2 style="text-align: center;">Alice & William</h2>
+<h1 style="text-align: center;">Alice & William</h1>
 
 
 ![Alice & William](../images/wa-2.jpg "Lago di Revine - Agosto 2024")
