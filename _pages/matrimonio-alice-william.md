@@ -8,12 +8,10 @@ masthead: false
 
 <h1 style="text-align: center;">Alice & William</h1>
 
+![Alice & William](../images/wa-ledro.jpg "Lago di Ledro - Gennaio 2025")
 
-![Alice & William](../images/wa-2.jpg "Lago di Revine - Agosto 2024")
 ### _Venerdì 23 maggio 2025 dalle ore 16:00, [Al Burnec](https://al-burnec.com), [Via Bornico 32, 25030 Adro (BS)](https://maps.app.goo.gl/VRvmL2ThkSdTZgbv5)_
 
-
-## Dettagli 
 
 Siamo molto contenti ed emozionati di invitarvi alla celebrazione del nostro matrimonio!
 
@@ -36,4 +34,4 @@ Sia la cerimonia sia il ricevimento si svolgeranno Al Burnec ad Adro (BS), in Fr
 Per favore, fateci sapere entro il 30 aprile se riuscirete a partecipare compilando questo [modulo]().
 
 
-![Alice & William](../images/wa-1.jpg "Lago di Ledro - Gennaio 2025")
+![Alice & William](../images/wa-vespa.jpg "San Giorgio di Gioiosa Marea - Agosto 2015")
