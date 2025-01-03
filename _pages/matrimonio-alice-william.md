@@ -8,7 +8,7 @@ masthead: false
 
 <h1 style="text-align: center;">Alice & William</h1>
 
-![Alice & William](../images/wa-ledro.jpg "Lago di Ledro - Gennaio 2025")
+![Alice & William](../images/wa-ledro-20250101.jpg "Lago di Ledro - Gennaio 2025")
 
 ### _Venerdì 23 maggio 2025 dalle ore 16:00, [Al Burnec](https://al-burnec.com), [Via Bornico 32, 25030 Adro (BS)](https://maps.app.goo.gl/VRvmL2ThkSdTZgbv5)_
 
@@ -34,4 +34,4 @@ Sia la cerimonia sia il ricevimento si svolgeranno Al Burnec ad Adro (BS), in Fr
 Per favore, fateci sapere entro il 30 aprile se riuscirete a partecipare compilando questo [modulo]().
 
 
-![Alice & William](../images/wa-vespa.jpg "San Giorgio di Gioiosa Marea - Agosto 2015")
+![Alice & William](../images/wa-vespa-20150818.jpg "San Giorgio di Gioiosa Marea - Agosto 2015")
