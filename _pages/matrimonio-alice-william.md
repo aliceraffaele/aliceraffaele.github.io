@@ -10,7 +10,7 @@ masthead: false
 
 ![Alice & William - Header](../images/wa-header.png "Alice & William")
 
-![Alice & William](../images/wa-ledro-20250101.jpg "Lago di Ledro - Gennaio 2025")
+![Alice & William](../images/wa-ledro-20220910.jpg "Lago di Ledro - Settembre 2022")
 
 ### _Venerdì 23 maggio 2025 dalle ore 16:00, [Al Burnec](https://al-burnec.com), [Via Bornico 32, 25030 Adro (BS)](https://maps.app.goo.gl/VRvmL2ThkSdTZgbv5)_
 
