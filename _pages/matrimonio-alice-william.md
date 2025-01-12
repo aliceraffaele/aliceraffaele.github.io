@@ -33,6 +33,8 @@ Sia la cerimonia sia il ricevimento si svolgeranno Al Burnec ad Adro (BS), in Fr
 
 **22:00 – 01:30**: taglio della torta e festa
 
+Aggiungete l'evento al vostro [calendario](../files/matrimonio-alice-william.ics).
+
 <!-- ## RSVP -->
 
 ![RSVP](../images/wa-rsvp.png "RSVP")
@@ -44,5 +46,3 @@ Per favore, fateci sapere entro il 15 aprile se riuscirete a partecipare compila
 ![Alice & William](../images/wa-vespa-20150818.jpg "San Giorgio di Gioiosa Marea - Agosto 2015")
 
 ![Vi aspettiamo!](../images/wa-vi-aspettiamo.png "Vi aspettiamo!")
-
-[Aggiungi l'evento al tuo calendario](../files/matrimonio-alice-william.ics)
