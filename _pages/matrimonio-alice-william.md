@@ -45,4 +45,4 @@ Per favore, fateci sapere entro il 15 aprile se riuscirete a partecipare compila
 
 ![Vi aspettiamo!](../images/wa-vi-aspettiamo.png "Vi aspettiamo!")
 
-![Aggiungi l'evento al tuo calendario](../files/matrimonio-alice-william.ics)
+[Aggiungi l'evento al tuo calendario](../files/matrimonio-alice-william.ics)
