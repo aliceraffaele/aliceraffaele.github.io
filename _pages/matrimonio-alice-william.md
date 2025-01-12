@@ -29,7 +29,7 @@ Sia la cerimonia sia il ricevimento si svolgeranno Al Burnec ad Adro (BS), in Fr
 
 **19:00 – 22:00**: ricevimento
 
-**22:00 – 01:30**: taglio della torta e festa con dj set e open bar
+**22:00 – 01:30**: taglio della torta e festa
 
 ## RSVP
 
