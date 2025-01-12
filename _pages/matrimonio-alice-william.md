@@ -17,7 +17,7 @@ Siamo molto contenti ed emozionati di invitarvi alla celebrazione del nostro mat
 
 Sia la cerimonia sia il ricevimento si svolgeranno Al Burnec ad Adro (BS), in Franciacorta. In particolare, la cerimonia consisterà in un rito civile e simbolico e si terrà all'aperto nel giardino della struttura, se le condizioni meteo lo consentiranno; altrimenti, sarà all'interno di uno dei saloni del Burnec.
 
-## Programma indicativo
+## Programma provvisorio
 
 **16:00 – 16:30**: arrivo degli ospiti
 
@@ -31,7 +31,7 @@ Sia la cerimonia sia il ricevimento si svolgeranno Al Burnec ad Adro (BS), in Fr
 
 ## RSVP
 
-Per favore, fateci sapere entro il 30 aprile se riuscirete a partecipare compilando questo [modulo](https://docs.google.com/forms/d/e/1FAIpQLSe7uOUHFs8qQijDNVPb65UiauCA5A9IXy9VsY5OJlFuNENHGQ/viewform?usp=dialog).
+Per favore, fateci sapere entro il 15 aprile se riuscirete a partecipare compilando questo [modulo](https://docs.google.com/forms/d/e/1FAIpQLSe7uOUHFs8qQijDNVPb65UiauCA5A9IXy9VsY5OJlFuNENHGQ/viewform?usp=dialog).
 
 
 ![Alice & William](../images/wa-vespa-20150818.jpg "San Giorgio di Gioiosa Marea - Agosto 2015")
