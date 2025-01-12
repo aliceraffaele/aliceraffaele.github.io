@@ -42,3 +42,7 @@ Per favore, fateci sapere entro il 15 aprile se riuscirete a partecipare compila
 
 
 ![Alice & William](../images/wa-vespa-20150818.jpg "San Giorgio di Gioiosa Marea - Agosto 2015")
+
+![Vi aspettiamo!](../images/wa-vi-aspettiamo.png "Vi aspettiamo!")
+
+![Aggiungi l'evento al tuo calendario](../files/matrimonio-alice-william.ics)
