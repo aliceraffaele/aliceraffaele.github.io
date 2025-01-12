@@ -1,6 +1,6 @@
 ---
 permalink: /matrimonio-alice-william/
-#title: "Alice & William"
+title: "Alice & William"
 excerpt: "Alice & William – 23/05/2025"
 author_profile: false
 masthead: false
