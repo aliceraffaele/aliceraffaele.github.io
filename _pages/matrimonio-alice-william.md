@@ -6,7 +6,9 @@ author_profile: false
 masthead: false
 ---
 
-<h1 style="text-align: center;">Alice & William</h1>
+<!-- <h1 style="text-align: center;">Alice & William</h1> -->
+
+![Alice & William - Header](../images/alice-e-william-header.png "Alice & William")
 
 ![Alice & William](../images/wa-ledro-20250101.jpg "Lago di Ledro - Gennaio 2025")
 
