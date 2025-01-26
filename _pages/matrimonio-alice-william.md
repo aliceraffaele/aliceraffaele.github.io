@@ -29,9 +29,9 @@ Sia la cerimonia sia il ricevimento si svolgeranno Al Burnec ad Adro (BS), in Fr
 
 **17:30 – 19:00**: aperitivo con musica dal vivo
 
-**19:00 – 22:00**: ricevimento
+**19:00 – 22:30**: ricevimento
 
-**22:00 – 01:30**: taglio della torta e festa
+**22:30 – 01:30**: taglio della torta e festa
 
 Aggiungete l'evento al vostro [calendario](../files/matrimonio-alice-william.ics).
 
