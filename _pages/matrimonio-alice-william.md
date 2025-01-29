@@ -17,7 +17,7 @@ masthead: false
 
 Siamo molto contenti ed emozionati di invitarvi alla celebrazione del nostro matrimonio!
 
-Sia la cerimonia sia il ricevimento si svolgeranno Al Burnec ad Adro (BS), in Franciacorta. In particolare, la cerimonia consisterà in un rito civile e simbolico e si terrà all'aperto nel giardino della struttura, se le condizioni meteo lo consentiranno; altrimenti, sarà all'interno di uno dei saloni del Burnec.
+Sia la cerimonia sia il ricevimento si svolgeranno Al Burnec ad Adro (BS), in Franciacorta. In particolare, la cerimonia consisterà in un rito simbolico e si terrà all'aperto nel giardino della struttura, se le condizioni meteo lo consentiranno; altrimenti, sarà all'interno di uno dei saloni del Burnec.
 
 <!-- ## Programma provvisorio -->
 
