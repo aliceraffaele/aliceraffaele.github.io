@@ -18,6 +18,7 @@ author_profile: true
 - [4th AIROYoung Workshop (4AYW)](https://www.unibz.it/en/events/132924-4th-airoyoung-workshop-optimization-at-the-crossroads-of-italy-and-north-europe), Free University of Bozen, Italy, February 5–7, 2020
 
 ## Program Committee
+- [International Conference on Optimization and Decision Science (ODS2025)](http://www.airoconference.it/ods2024/), Milan, Italy, September 01-04, 2025
 - [International Conference on Optimization and Decision Science (ODS2024)](http://www.airoconference.it/ods2024/), Badesi, Sardinia, Italy, September 08-12, 2024
 - [8th AIROYoung Workshop (8AYW)](https://www.unical.it/ayw2024/), University of Calabria, Italy, February 14-16, 2024
 - [7th AIROYoung Workshop (7AYW)](https://ayw2023.di.unimi.it), University of Milan, Italy, February 15-17, 2023

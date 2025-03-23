@@ -55,6 +55,7 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## Others
+- *In arrivo “Storie che contano”, una nuova raccolta di MaddMaths!* ([link](https://maddmaths.simai.eu/storie-che-contano/in-arrivo-storie-che-contano-una-nuova-raccolta/))
 - [**OR**] *Giornata Internazionale delle Donne nella Matematica 2024 – Tutti gli eventi italiani* ([link](https://maddmaths.simai.eu/divulgazione/eventi/giornata-internazionale-donne-matematica-2024-tutti-gli-eventi/))
 - *“Crescere con la scienza”, sperimentando con la lettura* ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/crescere-con-la-scienza-sperimentando-con-la-lettura/))
 - *La comunicazione è una transazione* ([link](https://maddmaths.simai.eu/divulgazione/workshop-comunicazione-della-matematica/))
