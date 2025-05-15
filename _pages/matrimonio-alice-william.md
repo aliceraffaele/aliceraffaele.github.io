@@ -21,7 +21,7 @@ Sia la cerimonia sia il ricevimento si svolgeranno Al Burnec ad Adro (BS), in Fr
 
 <!-- ## Programma provvisorio -->
 
-![Programma provvisorio](../images/wa-programma-provvisorio.png "Programma provvisorio")
+![Programma provvisorio](../images/wa-programma-definitivo.png "Programma definitivo")
 
 **16:00 – 16:30**: arrivo degli ospiti
 

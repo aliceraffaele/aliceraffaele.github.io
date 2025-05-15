@@ -15,6 +15,7 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## On operations research
+- *“Gli anni delle immense compagnie”: nel cuore del 9° AIRO Young Workshop*, joint work with the Organizing Committee of the 9th AIROYoung Workshop and Luca Wrabetz ([link](https://maddmaths.simai.eu/divulgazione/ricerca-operativa/gli-anni-delle-immense-compagnie-nel-cuore-del-9-airo-young-workshop/))
 - *EURO Gold Medal 2024 a Maria Grazia Speranza – Di cognomi, simboli e mete* ([link](https://maddmaths.simai.eu/comunicare/pari-opportunita/euro-gold-medal-2024-a-maria-grazia-speranza-di-cognomi-simboli-e-mete/))
 - *ROAR IN AZIONE! – 7) Applicazioni multisettoriali della ricerca operativa* ([link](https://maddmaths.simai.eu/divulgazione/roar-in-azione-applicazioni-multisettoriali-ricerca-operativa/))
 - *ODS 2022: una ricerca inclusivamente operativa* ([link](https://maddmaths.simai.eu/divulgazione/ricerca-operativa-ods2022-una-ricerca-inclusivamente-operativa/))
@@ -54,8 +55,14 @@ Hereafter you can find the links to all the articles I've written so far, availa
 - *Il pensiero efficace. Indovinelli e rompicapi per allenare la mente*, Edward B. Burger ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche-estive-5/))
 
 
-## Others
+## “Storie che contano” (a series of short stories based on mathematics that I have been editing and revising since March 2025, with the help of Giuseppe Giorgio Colabufo)
+- *3) Pacifico D’Auria, Alessandro Scribani, Daniele Palladino, “Il patto della tangente”* ([link](https://maddmaths.simai.eu/storie-che-contano/dauria-scribani-palladino-il-patto-della-tangente/))
+- *2) Valentina Penza, “π”* ([link](https://maddmaths.simai.eu/storie-che-contano/valentina-penza-pi-greco/))
+- *1) Massimo Ferri, “La dea sdegnosa”* ([link](https://maddmaths.simai.eu/storie-che-contano/massimo-ferri-la-dea-sdegnosa/))
 - *In arrivo “Storie che contano”, una nuova raccolta di MaddMaths!* ([link](https://maddmaths.simai.eu/storie-che-contano/in-arrivo-storie-che-contano-una-nuova-raccolta/))
+
+
+## Others
 - [**OR**] *Giornata Internazionale delle Donne nella Matematica 2024 – Tutti gli eventi italiani* ([link](https://maddmaths.simai.eu/divulgazione/eventi/giornata-internazionale-donne-matematica-2024-tutti-gli-eventi/))
 - *“Crescere con la scienza”, sperimentando con la lettura* ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/crescere-con-la-scienza-sperimentando-con-la-lettura/))
 - *La comunicazione è una transazione* ([link](https://maddmaths.simai.eu/divulgazione/workshop-comunicazione-della-matematica/))
