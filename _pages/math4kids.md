@@ -16,6 +16,7 @@ Usually, each meeting is dedicated to a particular subject related to mathematic
 Due to my regular work as a Ph.D. student in the past and as a postdoc now, and also because of COVID-19, in the recent years, I could not keep a regular schedule. But these appointments are not over! The enthusiasm shown by the participants has always been overwhelming, encouraging me to design and develop more and more activities.
 
 Hereafter I listed all meetings, together with the topics faced, from the most recent to the oldest one:
+- August 30, 2025 -- *TBD*
 - December 28, 2024 -- *Arithmetic, problem-solving, and science*: wooden puzzles, a STEM memory game with associations, and an innovative Christmas bingo.
 - November 09, 2024 -- In collaboration with [Editoriale Scienza](https://www.editorialescienza.it/) and Giovanni Macetti for the XXII edition of the [Rassegna della Microeditoria](https://www.microeditoria.it) -- *Problem-solving and Informatics*: wooden puzzles, algorithm development, and a STEM memory game with associations.
 - August 24, 2024 -- *Arithmetic, informatics, and operations research*: an interdisciplinary Pentathlon of Problem-Solving (expressions, coding, graphs, shortest path, Traveling Salesman Problem, and minimum spanning tree).
