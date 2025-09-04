@@ -57,6 +57,11 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## “Storie che contano” (a series of short stories based on mathematics that I have been editing and revising since March 2025, with the help of Giuseppe Giorgio Colabufo)
+- *8) Maurizio Codogno, “Il numero scomparso”* ([link](https://maddmaths.simai.eu/storie-che-contano/maurizio-codogno-il-numero-scomparso/))
+- *7) Giuseppe Giorgio Colabufo, “Il mistero del divano teorematico: ordine e caos in città”* ([link](https://maddmaths.simai.eu/storie-che-contano/giuseppe-giorgio-colabufo-il-mistero-del-divano/))
+- *6) Maurizio Codogno, “Il triello”* ([link](https://maddmaths.simai.eu/storie-che-contano/maurizio-codogno-il-triello/))
+- *5) Massimo Ferri, “5cm”* ([link](https://maddmaths.simai.eu/storie-che-contano/massimo-ferri-5cm/))
+- *4) Fabrizio Lanfredi, “AM♥♥RE”* ([link](https://maddmaths.simai.eu/storie-che-contano/fabrizio-lanfredi-amore/))
 - *3) Pacifico D’Auria, Alessandro Scribani, Daniele Palladino, “Il patto della tangente”* ([link](https://maddmaths.simai.eu/storie-che-contano/dauria-scribani-palladino-il-patto-della-tangente/))
 - *2) Valentina Penza, “π”* ([link](https://maddmaths.simai.eu/storie-che-contano/valentina-penza-pi-greco/))
 - *1) Massimo Ferri, “La dea sdegnosa”* ([link](https://maddmaths.simai.eu/storie-che-contano/massimo-ferri-la-dea-sdegnosa/))

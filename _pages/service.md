@@ -15,6 +15,7 @@ author_profile: true
   - **[March 2019 - February 2021]** Social media manager and web curator
 
 ## Organizing Committee
+- 10th AIROYoung Workshop (10AYW) and Ph.D. School, University of Padua, Italy, February 2026 (exact dates TBA)
 - [4th AIROYoung Workshop (4AYW)](https://www.unibz.it/en/events/132924-4th-airoyoung-workshop-optimization-at-the-crossroads-of-italy-and-north-europe), Free University of Bozen, Italy, February 5–7, 2020
 
 ## Program Committee
@@ -29,9 +30,10 @@ author_profile: true
 - **[March 2022 – August 2023]** Special Volume editor (with Matteo Cosmi, Lorenzo Peirano, and Marcella Samà) of the book entitled [Operations Research and Data Science in Public Services](https://link.springer.com/book/10.1007/978-3-031-34546-3) in the [AIRO Springer Series](https://www.springer.com/series/15947)
 
 ## Peer reviewing
-*AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Heliyon*, *International Journal of Mathematical Education in Science and Technology*, *INFORMS Transactions on Education*, *International Transactions in Operational Research*, *Networks*, *Operations Research Forum*, *Transportation Science*.
+*AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Heliyon*, *International Journal of Mathematical Education in Science and Technology*, *INFORMS Transactions on Education*, *International Transactions in Operational Research*, *Networks*, *Operations Research Forum*, *The Art of Discrete and Applied Mathematics*, *Transportation Science*.
 
 ## Session Chair
+- *Communicating mathematics and O.R. (MaddMaths!)* [International Conference on Optimization and Decision Science (ODS2025)](http://www.airoconference.it/ods2025/index.php), Casa Schuster, Milan, Italy, September 02, 2025
 - *Vehicle Routing Under Uncertainty 1* in the “VeRoLog - Vehicle Routing and Logistics” stream, [33rd European Conference on Operational Research (EURO2024)](https://euro2024cph.dk), Technical University of Denmark (DTU), Copenhagen, Denmark, July 1, 2024
 - *Experienced Routes for the Teaching Students' Problem* in the “OR Education” stream, [33rd European Conference on Operational Research (EURO2024)](https://euro2024cph.dk), Technical University of Denmark (DTU), Copenhagen, Denmark, July 1, 2024
 - *AIROYoung Dissertation Award 2023* (with Veronica Dal Sasso, Giusy Macrina, and Lorenzo Peirano), [International Conference on Optimization and Decision Science (ODS2023)](http://www.airoconference.it/ods2023/index.php), Hotel Continental Terme, Ischia, Italy, September 07, 2023
