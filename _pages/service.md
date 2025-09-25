@@ -14,11 +14,12 @@ author_profile: true
   - **[February 2021 – February 2024]** Joint coordinator together with Lorenzo Peirano (University of Brescia)
   - **[March 2019 - February 2021]** Social media manager and web curator
 
-## Organizing Committee
-- 10th AIROYoung Workshop (10AYW) and Ph.D. School, University of Padua, Italy, February 2026 (exact dates TBA)
+## Organizing Committees
+- [8th Creative Mathematical Sciences Communication 2026](https://cmsc2026.github.io), University of Padua, Italy, October 12-15, 2026
+- [10th AIROYoung Workshop (10AYW) and Ph.D. School](https://ayw2026.github.io), University of Padua, Italy, February 9-13, 2026
 - [4th AIROYoung Workshop (4AYW)](https://www.unibz.it/en/events/132924-4th-airoyoung-workshop-optimization-at-the-crossroads-of-italy-and-north-europe), Free University of Bozen, Italy, February 5–7, 2020
 
-## Program Committee
+## Program Committees
 - [International Conference on Optimization and Decision Science (ODS2025)](http://www.airoconference.it/ods2025/), Milan, Italy, September 01-04, 2025
 - [International Conference on Optimization and Decision Science (ODS2024)](http://www.airoconference.it/ods2024/), Badesi, Sardinia, Italy, September 08-12, 2024
 - [8th AIROYoung Workshop (8AYW)](https://www.unical.it/ayw2024/), University of Calabria, Italy, February 14-16, 2024
