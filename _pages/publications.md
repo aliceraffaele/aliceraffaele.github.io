@@ -17,6 +17,6 @@ author_profile: true
 &nbsp;
 
 # Submitted:
-- Alice Raffaele, Demetrio Salvatore Laganà, and Roberto Roberti. *Robust Policies for a Multi-Period Fleet Sizing Problem with Demand Uncertainty*. August 2024 (submitted), December 2024 (invited revision).
+- Alice Raffaele, Demetrio Salvatore Laganà, and Roberto Roberti. *Robust Policies for a Multi-Period Fleet Sizing Problem with Demand Uncertainty*. August 2024 (submitted), December 2024 (invited revision), May 2025 (first revision submitted).
 
 &nbsp;
