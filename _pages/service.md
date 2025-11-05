@@ -17,6 +17,7 @@ author_profile: true
 ## Organizing Committees
 - [8th Creative Mathematical Sciences Communication 2026](https://cmsc2026.github.io), University of Padua, Italy, October 12-15, 2026
 - 10th AIROYoung Workshop (10AYW) and Ph.D. School, University of Padua, Italy, February 9-13, 2026
+- [Carnevale della Matematica dal Vivo 2025](https://maddmaths.simai.eu/carnevale-milano-leonardo-2025/), Museo Nazionale Scienza e Tecnologia Leonardo da Vinci, Milan, Italy, November 21-22, 2026
 - [4th AIROYoung Workshop (4AYW)](https://www.unibz.it/en/events/132924-4th-airoyoung-workshop-optimization-at-the-crossroads-of-italy-and-north-europe), Free University of Bozen, Italy, February 5–7, 2020
 
 ## Program Committees
