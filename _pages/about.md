@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+**News**: We are organizing the **[10th AIROYoung Workshop and Ph.D. School](https://ayw2026.github.io)**, held in Padova in February 2026. Registration & Abstract/Short paper submission are open!
+
+---
+
 
 > “*Who are we, who is each one of us, if not a combinatoria of experiences, information, books we have read, things imagined? Each life is an encyclopedia, a library, an inventory of objects, a series of styles, and everything can be constantly shuffled and reordered in every way conceivable.*” –
 > Italo Calvino, “*Multiplicity*”, in “*Six memos for the next millennium*”
