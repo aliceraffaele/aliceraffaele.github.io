@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Home"
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **News**: We are organizing the **[10th AIROYoung Workshop and Ph.D. School](https://ayw2026.github.io)**, held in Padova in February 2026. Registration & Abstract/Short paper submission are open!
+
 
 ---
 
