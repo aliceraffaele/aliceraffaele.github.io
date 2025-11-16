@@ -16,7 +16,7 @@ author_profile: true
 
 ## Organizing Committees
 - [8th Creative Mathematical Sciences Communication 2026](https://cmsc2026.github.io), University of Padua, Italy, October 12-15, 2026
-- 10th AIROYoung Workshop (10AYW) and Ph.D. School, University of Padua, Italy, February 9-13, 2026
+- [10th AIROYoung Workshop and Ph.D. School](https://ayw2026.github.io), University of Padua, Italy, February 9-13, 2026
 - [Carnevale della Matematica dal Vivo 2025](https://maddmaths.simai.eu/carnevale-milano-leonardo-2025/), Museo Nazionale Scienza e Tecnologia Leonardo da Vinci, Milan, Italy, November 21-22, 2026
 - [4th AIROYoung Workshop (4AYW)](https://www.unibz.it/en/events/132924-4th-airoyoung-workshop-optimization-at-the-crossroads-of-italy-and-north-europe), Free University of Bozen, Italy, February 5–7, 2020
 
@@ -29,7 +29,8 @@ author_profile: true
 - [6th AIROYoung Workshop -- Operations Research and Data Science in Public Services (6AYW)](https://ayw2022.uniroma3.it), Roma Tre University, Italy, February 23-25, 2022
 
 ## Editorial activity
-- **[March 2022 – August 2023]** Special Volume editor (with Matteo Cosmi, Lorenzo Peirano, and Marcella Samà) of the book entitled [Operations Research and Data Science in Public Services](https://link.springer.com/book/10.1007/978-3-031-34546-3) in the [AIRO Springer Series](https://www.springer.com/series/15947)
+- **[October 2025 – present]** Special Volume editor (with Martina Doneda, Dario Palasgo, and Marta L. Tessitore) of the book entitled [*Optimization between Determinism and Uncertainty* in the [AIRO Springer Series](https://www.springer.com/series/15947) -- Submission are open! More information [here](https://meteor.springer.com/10AYW)
+- **[March 2022 – August 2023]** Special Volume editor (with Matteo Cosmi, Lorenzo Peirano, and Marcella Samà) of the book entitled [*Operations Research and Data Science in Public Services*](https://link.springer.com/book/10.1007/978-3-031-34546-3) in the [AIRO Springer Series](https://www.springer.com/series/15947)
 
 ## Peer reviewing
 *AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Heliyon*, *International Journal of Mathematical Education in Science and Technology*, *INFORMS Transactions on Education*, *International Transactions in Operational Research*, *Networks*, *Operations Research Forum*, *The Art of Discrete and Applied Mathematics*, *Transportation Science*.

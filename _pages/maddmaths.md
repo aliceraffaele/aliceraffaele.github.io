@@ -56,6 +56,9 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## “Storie che contano” (a series of short stories based on mathematics that I have been editing and revising since March 2025, with the help of Giuseppe Giorgio Colabufo)
+- *11) 2 Fs del Liceo Matematico “N. Copernico” di Prato, “La trisezione dell’angolo”* ([link](https://maddmaths.simai.eu/storie-che-contano/2fs-copernico-la-trisezione-dell-angolo/))
+- *10) Luigi Arcari, “L'identità di Eulero”* ([link](https://maddmaths.simai.eu/storie-che-contano/luigi-arcari-la-identita-di-eulero/))
+- *9) Rudi Mathematici, “Una passione analitica”* ([link](https://maddmaths.simai.eu/storie-che-contano/rudi-mathematici-una-passione-analitica/))
 - *8) Maurizio Codogno, “Il numero scomparso”* ([link](https://maddmaths.simai.eu/storie-che-contano/maurizio-codogno-il-numero-scomparso/))
 - *7) Giuseppe Giorgio Colabufo, “Il mistero del divano teorematico: ordine e caos in città”* ([link](https://maddmaths.simai.eu/storie-che-contano/giuseppe-giorgio-colabufo-il-mistero-del-divano/))
 - *6) Maurizio Codogno, “Il triello”* ([link](https://maddmaths.simai.eu/storie-che-contano/maurizio-codogno-il-triello/))
@@ -72,3 +75,4 @@ Hereafter you can find the links to all the articles I've written so far, availa
 - *“Crescere con la scienza”, sperimentando con la lettura* ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/crescere-con-la-scienza-sperimentando-con-la-lettura/))
 - *La comunicazione è una transazione* ([link](https://maddmaths.simai.eu/divulgazione/workshop-comunicazione-della-matematica/))
 - *In viaggio con i numeri* con Silvia Benvenuti al Salone del Libro di Torino ([link](https://maddmaths.simai.eu/divulgazione/numeri-bevenuti-torino/))
+- *Carnevale della Matematica (dal vivo) 2025* ([link](https://maddmaths.simai.eu/carnevale-milano-leonardo-2025/) -- not written by me)
