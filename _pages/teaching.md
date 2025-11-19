@@ -49,10 +49,10 @@ author_profile: true
 - **[October 2021 – March 2024]** *Mathematics Teaching Committee*, Department of Computer Science, University of Verona, Italy
 
 ## Supervising activities
-- **Advisor**:
-  - **[September 2023 – present]** Malina Elena Gradinaru, *TBD*, Master's Degree in Mathematics, University of Verona, Italy (with Prof. Roberto Roberti)
+<!-- - **Advisor**:
+  - **[September 2023 – present]** Malina Elena Gradinaru, *TBD*, Master's Degree in Mathematics, University of Verona, Italy (with Prof. Roberto Roberti) -->
 
 - **Co-advisor**:
-  - **[July 2024 – present]** Antonino Andrea Caré, *TBD*, Master's Degree in Computer Engineering, University of Padova, Italy (with Prof. Roberto Roberti)
-  - **[November 2023 – October 2024]** Bernis Çolakoğlu, *Matheuristic Approaches for a Practical Flow Shop Scheduling Problem*, Master's Degree in ICT for internet and multimedia, University of Padova, Italy (with Prof. Roberto Roberti)
+  - **[July 2024 – March 2025]** Antonino Andrea Caré, *MILP Models for Public Transport-aided Robot Routing*, Master's Degree in Computer Engineering, University of Padova, Italy (with Prof. Roberto Roberti) -- From September 2025, Ph.D. student at Politecnico di Milano
+  - **[November 2023 – October 2024]** Bernis Çolakoğlu, *Matheuristic Approaches for a Practical Flow Shop Scheduling Problem*, Master's Degree in ICT for internet and multimedia, University of Padova, Italy (with Prof. Roberto Roberti) -- From December 2024, Ph.D. student at Politecnico di Milano
   - **[July 2019 – March 2020]** Enrica Pini, *Traffic networks: minimizing costs in flow reconstruction*, Master's Degree in Mathematics, University of Verona, Italy (with Prof. Romeo Rizzi)
