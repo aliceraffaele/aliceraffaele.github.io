@@ -10,6 +10,8 @@ redirect_from:
 
 **News**: We are organizing the **[10th AIROYoung Workshop and Ph.D. School](https://ayw2026.github.io)**, held in Padova in February 2026. Registration & Abstract/Short paper submission are open!
 
+And we are also organizing the **[Creative Mathematical Sciences Communication 2026](https://cmsc2026.github.io)**, still in Padova, but in October 2026. We'll launch the first Call for Contributions soon!
+
 
 ---
 
