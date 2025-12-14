@@ -33,7 +33,7 @@ author_profile: true
 - **[March 2022 – August 2023]** Special Volume editor (with Matteo Cosmi, Lorenzo Peirano, and Marcella Samà) of the book entitled [*Operations Research and Data Science in Public Services*](https://link.springer.com/book/10.1007/978-3-031-34546-3) in the [AIRO Springer Series](https://www.springer.com/series/15947)
 
 ## Peer reviewing
-*AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Heliyon*, *International Journal of Mathematical Education in Science and Technology*, *INFORMS Transactions on Education*, *International Transactions in Operational Research*, *Networks*, *Operations Research Forum*, *The Art of Discrete and Applied Mathematics*, *Transportation Science*.
+*AIRO Springer Series*, *Discrete Applied Mathematics*, *European Journal of Operational Research*, *Heliyon*, *International Journal of Mathematical Education in Science and Technology*, *INFORMS Transactions on Education*, *International Transactions in Operational Research*, *Integer Programming and Combinatorial Optimization*, *Networks*, *Operations Research Forum*, *The Art of Discrete and Applied Mathematics*, *Transportation Science*.
 
 ## Session Chair
 - *Communicating mathematics and O.R. (MaddMaths!)*, [International Conference on Optimization and Decision Science (ODS2025)](http://www.airoconference.it/ods2025/index.php), Casa Schuster, Milan, Italy, September 02, 2025 ([link1](https://drive.google.com/file/d/1HkGQnRM1aykqXk82gxY4NRbKcUbBYWpA/view?usp=share_link), [link2](https://drive.google.com/drive/folders/1kSFYzysv1E8pWLXitiSHARSXigG8t0VY?usp=share_link))
