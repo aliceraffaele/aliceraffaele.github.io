@@ -56,8 +56,8 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## “Storie che contano” (a series of short stories based on mathematics that I have been editing and revising since March 2025, with the help of Giuseppe Giorgio Colabufo)
-- *16) Claudia Zampolini, “Incontrarvi seduti sopra quel treno* ([link] (https://maddmaths.simai.eu/storie-che-contano/storie-che-contano-16-claudia-zampolini-incontrarvi-seduti-sopra-quel-treno/))
-- *15) Cosimo Perini Brogi, “Il senso astratto delle cose* ([link] (https://maddmaths.simai.eu/storie-che-contano/cosimo-perini-brogi-senso-astratto-delle-cose/))
+- *16) Claudia Zampolini, “Incontrarvi seduti sopra quel treno* ([link](https://maddmaths.simai.eu/storie-che-contano/storie-che-contano-16-claudia-zampolini-incontrarvi-seduti-sopra-quel-treno/))
+- *15) Cosimo Perini Brogi, “Il senso astratto delle cose* ([link](https://maddmaths.simai.eu/storie-che-contano/cosimo-perini-brogi-senso-astratto-delle-cose/))
 - *14) Nina Grenzwert, “Il regime del logaritmo”* ([link](https://maddmaths.simai.eu/storie-che-contano/nina-grenzwert-il-regime-del-logaritmo/))
 - *13) Giuseppe Giorgio Colabufo, “Inventario di macchine e macchinazioni”* ([link](https://maddmaths.simai.eu/storie-che-contano/giuseppe-giorgio-colabufo-inventario-di-macchine-e-macchinazioni/))
 - *12) Massimo Ferri, “Lettera dalla Signoria”* ([link](https://maddmaths.simai.eu/storie-che-contano/massimo-ferri-lettera-dalla-signoria/))
