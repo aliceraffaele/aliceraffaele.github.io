@@ -15,6 +15,7 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## On operations research
+- *Dieci anni di AIROYoung*, joint work with Lorenzo Perinello ([link](https://maddmaths.simai.eu/divulgazione/ricerca-operativa/dieci-anni-di-airoyoung/))
 - *“Gli anni delle immense compagnie”: nel cuore del 9° AIRO Young Workshop*, joint work with the Organizing Committee of the 9th AIROYoung Workshop and Luca Wrabetz ([link](https://maddmaths.simai.eu/divulgazione/ricerca-operativa/gli-anni-delle-immense-compagnie-nel-cuore-del-9-airo-young-workshop/))
 - *EURO Gold Medal 2024 a Maria Grazia Speranza – Di cognomi, simboli e mete* ([link](https://maddmaths.simai.eu/comunicare/pari-opportunita/euro-gold-medal-2024-a-maria-grazia-speranza-di-cognomi-simboli-e-mete/))
 - *ROAR IN AZIONE! – 7) Applicazioni multisettoriali della ricerca operativa* ([link](https://maddmaths.simai.eu/divulgazione/roar-in-azione-applicazioni-multisettoriali-ricerca-operativa/))
