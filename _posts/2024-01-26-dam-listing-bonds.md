@@ -1,5 +1,5 @@
 ---
-title: 'Listing bonds on Discrete Applied Mathematics'
+title: 'Listing bonds in Discrete Applied Mathematics'
 date: 2024-01-26
 permalink: /posts/2024/01/dam-listing-bonds/
 tags:

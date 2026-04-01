@@ -1,5 +1,5 @@
 ---
-title: 'ROAR I on IJMEST'
+title: 'ROAR I in the International Journal of Mathematical Education in Science and Technology'
 date: 2022-10-13
 permalink: /posts/2022/10/ijmest-roar-1/
 tags:

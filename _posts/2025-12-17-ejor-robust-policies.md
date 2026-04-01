@@ -1,5 +1,5 @@
 ---
-title: 'A new decomposition for the Monotone Boolean Duality Problem on Discrete Applied Mathematics'
+title: 'Robust policies for a multi-period fleet sizing problem with demand uncertainty in the European Journal of Operational Research'
 date: 2025-12-17
 permalink: /posts/2025/12/ejor-robust-policies/
 tags:
