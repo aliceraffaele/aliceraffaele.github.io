@@ -1,5 +1,5 @@
 ---
-title: 'SMTWAP on European Journal of Operational Research'
+title: 'SMTWAP in the European Journal of Operational Research'
 date: 2024-01-20
 permalink: /posts/2024/01/ejor-smtwap/
 tags:
