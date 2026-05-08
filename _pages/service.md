@@ -29,7 +29,7 @@ author_profile: true
 - [6th AIROYoung Workshop -- Operations Research and Data Science in Public Services (6AYW)](https://ayw2022.uniroma3.it), Roma Tre University, Italy, February 23-25, 2022
 
 ## Editorial activity
-- **[October 2025 – present]** Special Volume editor (with Martina Doneda, Dario Palasgo, and Marta L. Tessitore) of the book entitled [*Optimization between Determinism and Uncertainty* in the [AIRO Springer Series](https://www.springer.com/series/15947) -- Submission are open! More information [here](https://meteor.springer.com/10AYW)
+- **[October 2025 – present]** Special Volume editor (with Martina Doneda, Dario Palasgo, and Marta L. Tessitore) of the book entitled [*Optimization between Determinism and Uncertainty* in the [AIRO Springer Series](https://www.springer.com/series/15947) -- More information [here](https://meteor.springer.com/10AYW)
 - **[March 2022 – August 2023]** Special Volume editor (with Matteo Cosmi, Lorenzo Peirano, and Marcella Samà) of the book entitled [*Operations Research and Data Science in Public Services*](https://link.springer.com/book/10.1007/978-3-031-34546-3) in the [AIRO Springer Series](https://www.springer.com/series/15947)
 
 ## Peer reviewing
