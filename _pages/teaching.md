@@ -54,7 +54,7 @@ author_profile: true
 
 - **Co-advisor**:
   - Ph.D. students:
-    - **[July 2024 – October 2026]** Elisa Savio, TBD, Ph.D. student (PNRR DM 352, in collaboration with Danieli Automation S.p.A.) in Mathematical Analysis, Modelling, and Applications, SISSA, Italy 
+    - **[July 2024 – December 2026]** Elisa Savio, TBD, Ph.D. student (PNRR DM 352, in collaboration with Danieli Automation S.p.A.) in Mathematical Analysis, Modelling, and Applications, SISSA, Italy. Expected defense date: December 2026
   - Master's students:
     - **[July 2024 – March 2025]** Antonino Andrea Caré, *MILP Models for Public Transport-aided Robot Routing*, Master's Degree in Computer Engineering, University of Padova, Italy (with Prof. Roberto Roberti) -- From September 2025, Ph.D. student at Politecnico di Milano
     - **[November 2023 – October 2024]** Bernis Çolakoğlu, *Matheuristic Approaches for a Practical Flow Shop Scheduling Problem*, Master's Degree in ICT for internet and multimedia, University of Padova, Italy (with Prof. Roberto Roberti) -- From December 2024, Ph.D. student at Politecnico di Milano
