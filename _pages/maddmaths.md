@@ -11,10 +11,12 @@ redirect_from:
 Since August 2021, I have been collaborating with the [main Italian website](http://maddmaths.simai.eu) for communicating mathematics.
 I typically write reviews of books about mathematics and computer science, both novels and essays, thus combining my passion for reading with the one for these subjects. Sometimes I also present possible applications of operations research. In particular, I discuss how a problem arising in real life can be first formulated as a mathematical model and then solved using mathematical programming and algorithms.
 
-Hereafter you can find the links to all the articles I've written so far, available only in Italian, unfortunately. They are classified according to their category and arranged from the most recent to the oldest ones. In all categories except “On operations research”, whenever an article contains something related to operations research, I have put the tag “**[OR]**” before the title.
+Hereafter you can find the links to all the articles I've written so far, available only in Italian, unfortunately. They are classified according to their category and arranged from the most recent to the oldest ones. In all categories except “On Operations Research”, whenever an article contains something related to operations research, I have put the tag “**[OR]**” before the title.
+
+**July 2026**: We of MaddMaths! are all really happy and proud that this initiative has received an honourable mention at the [EMS Simon Norton Prize for Mathematics Outreach 2026](https://euromathsoc.org/committee-outreach-Simon-Norton-Prize-2026). You can read our application [here](https://directus.backend.euromathsoc.org/assets/e0e86b2f-0e56-477c-9983-206203b828d3).
 
 
-## On operations research
+## On Operations Research
 - *Dieci anni di AIROYoung*, joint work with Lorenzo Perinello ([link](https://maddmaths.simai.eu/divulgazione/ricerca-operativa/dieci-anni-di-airoyoung/))
 - *“Gli anni delle immense compagnie”: nel cuore del 9° AIRO Young Workshop*, joint work with the Organizing Committee of the 9th AIROYoung Workshop and Luca Wrabetz ([link](https://maddmaths.simai.eu/divulgazione/ricerca-operativa/gli-anni-delle-immense-compagnie-nel-cuore-del-9-airo-young-workshop/))
 - *EURO Gold Medal 2024 a Maria Grazia Speranza – Di cognomi, simboli e mete* ([link](https://maddmaths.simai.eu/comunicare/pari-opportunita/euro-gold-medal-2024-a-maria-grazia-speranza-di-cognomi-simboli-e-mete/))
@@ -57,6 +59,9 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## “Storie che contano” (a series of short stories based on mathematics that I have been editing and revising since March 2025, with the help of Giuseppe Giorgio Colabufo)
+- *19) Fabrizio Lanfredi, “O quasi”* ([link](https://maddmaths.simai.eu/storie-che-contano/storie-che-contano-19-fabrizio-lanfredi-o-quasi/))
+- *18) Cosimo Perini Brogi, “Vuoto”* ([link](https://maddmaths.simai.eu/storie-che-contano/storie-che-contano-18-cosimo-perini-brogi-vuoto/))
+- *17) Roberto Lucchetti, “Francesco e Giovanni”* ([link](https://maddmaths.simai.eu/storie-che-contano/storie-che-contano-17-roberto-lucchetti-francesco-e-giovanni/))
 - *16) Claudia Zampolini, “Incontrarvi seduti sopra quel treno* ([link](https://maddmaths.simai.eu/storie-che-contano/storie-che-contano-16-claudia-zampolini-incontrarvi-seduti-sopra-quel-treno/))
 - *15) Cosimo Perini Brogi, “Il senso astratto delle cose* ([link](https://maddmaths.simai.eu/storie-che-contano/cosimo-perini-brogi-senso-astratto-delle-cose/))
 - *14) Nina Grenzwert, “Il regime del logaritmo”* ([link](https://maddmaths.simai.eu/storie-che-contano/nina-grenzwert-il-regime-del-logaritmo/))
@@ -77,6 +82,7 @@ Hereafter you can find the links to all the articles I've written so far, availa
 
 
 ## Others
+- *CMSC 2026: Ricerca, creatività e didattica unplugged”* ([link](https://maddmaths.simai.eu/didattica/cmsc-2026-ricerca-creativita-e-didattica-unplugged/))
 - [**OR**] *Giornata Internazionale delle Donne nella Matematica 2024 – Tutti gli eventi italiani* ([link](https://maddmaths.simai.eu/divulgazione/eventi/giornata-internazionale-donne-matematica-2024-tutti-gli-eventi/))
 - *“Crescere con la scienza”, sperimentando con la lettura* ([link](https://maddmaths.simai.eu/divulgazione/letture-matematiche/crescere-con-la-scienza-sperimentando-con-la-lettura/))
 - *La comunicazione è una transazione* ([link](https://maddmaths.simai.eu/divulgazione/workshop-comunicazione-della-matematica/))

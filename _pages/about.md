@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**News**: We are organizing the **[Creative Mathematical Sciences Communication 2026](https://cmsc2026.github.io)**in Padova, in October 2026. There will be talks, workshops, and even a Teachers' Day. Check the Call for Contributions!
+**News**: We are organizing the **[Creative Mathematical Sciences Communication 2026](https://cmsc2026.github.io)**in Padova, in October 2026. There will be talks, workshops, and even a Teachers' Day for primary and secundary school teachers. Registrations are open!
 
 ---
 
