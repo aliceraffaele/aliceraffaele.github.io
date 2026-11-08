@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-**News**: We are organizing the **[Creative Mathematical Sciences Communication 2026](https://cmsc2026.github.io)** in Padova, in October 2026. There will be talks, workshops, and even a Teachers' Day for primary and secundary school teachers. September 2026: Have a look at the Teachers' Day program!
+<!-- **News**: We are organizing the **[Creative Mathematical Sciences Communication 2026](https://cmsc2026.github.io)** in Padova, in October 2026. There will be talks, workshops, and even a Teachers' Day for primary and secundary school teachers. September 2026: Have a look at the Teachers' Day program!
 
 ---
-
+-->
 
 > “*Who are we, who is each one of us, if not a combinatoria of experiences, information, books we have read, things imagined? Each life is an encyclopedia, a library, an inventory of objects, a series of styles, and everything can be constantly shuffled and reordered in every way conceivable.*” –
 > Italo Calvino, “*Multiplicity*”, in “*Six memos for the next millennium*”
